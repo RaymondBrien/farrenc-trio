@@ -1,3 +1,6 @@
+/* Google fonts import */
+@import url("");
+
 /* General Styles */
 * {
     padding: 0;
@@ -7,16 +10,27 @@
 
 header {
     background-color: blue;
+    display: flex;
+}
+
+body {
+    background-color: aqua;
+    display: flex;
+    flex-direction: column;
+    /* Make main element take up any space and push footer to bottom */
+    flex: 1 0 auto;
+    min-height: 100vh;
 }
 
 main {
-    background-color: aqua;
-    /* Make main element take up any space and push footer to bottom */
-    flex: 1 0 auto;
+        /* Make main element take up any surplus space to push footer down */
+        flex: 1 0 auto;
+        margin-top: 47px;
 }
 
 footer {
     background-color: blueviolet;
+    display: flex;
     
     
 }
