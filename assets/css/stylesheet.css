@@ -11,7 +11,14 @@
 
 header {
     background-color: blue;
+    color: aliceblue;
     display: flex;
+}
+
+/* navbar */
+.active {
+    color: aliceblue;
+    font-style: none;
 }
 
 body {
