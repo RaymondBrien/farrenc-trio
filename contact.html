@@ -20,35 +20,49 @@
     <form action="confirmation.html">
         <fieldset>
             <legend>Contact Form:</legend>
-            <label for=""></label>
+            <label for="name">Name:</label>
+            <br>
             <input type="name" placeholder="Ke$ha" required>
-
-            <label for=""></label>
-            <select name="" id="" required>
-                <option value="" selected></option>
-                <option value=""></option>
-                <option value=""></option>
-                <option value=""></option>
-                <option value=""></option>
+            <br>
+            <br>
+            <label for="reason">Reason for Contacting:</label>
+            <select name="reason" id="reason" required>
+                <option value="reason" selected></option>
+                <option value="booking">Booking Inquery</option>
+                <option value="rates">Rates Questions</option>
+                <option value="idea">Project or Collaboration Request</option>
+                <option value="other">Other</option>
             </select>
-            
-            <label for=""></label>
+            <br>
+            <br>
+            <label for="email">Email:</label>
+            <br>
             <input type="email" required>
-
-            <label for=""></label>
-            <textarea name="" id="" cols="30" rows="10" required></textarea>
-            
-            <input type="submit" name="" id="">
+            <br>
+            <br>
+            <label for="phone">Contact Number:</label>
+            <br>
+            <input type="number" required placeholder="+44 7700 000111">
+            <br>
+            <br>
+            <label for="message">Message</label>
+            <textarea name="message" id="" cols="30" rows="10" required placeholder="Tell us more here. 
+Please refer to our 'contact tips' section below before you send."></textarea>
+            <br>
+            <br>
+            <input type="submit" name="contact-submit" id="contact-submit">
+            <br>
+            <br>
         </fieldset>
 
         <!-- Contact Tips -->
        <h3>Contact Tips:</h3> 
        <div id="contact-tips">
         <ul>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
+            <li>a</li>
+            <li>b</li>
+            <li>c</li>
+            <li>d</li>
         </ul>
        </div>
        <!-- Button to send back to top of page -->

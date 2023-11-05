@@ -67,6 +67,14 @@ main {
         margin-top: 47px;
 }
 
+/* Contact Page  */
+
+fieldset {
+    padding: 1rem;
+    margin: 10px;
+    max-width: 90vw;
+}
+
 footer {
     background-color: blueviolet;
     display: flex;
