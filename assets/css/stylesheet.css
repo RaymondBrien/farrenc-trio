@@ -67,12 +67,28 @@ main {
         margin-top: 47px;
 }
 
-/* Contact Page  */
 
+
+/* Contact Page  */
 fieldset {
     padding: 1rem;
     margin: 10px;
     max-width: 90vw;
+}
+
+
+
+/* Services Page */
+#repertoire {
+    margin: 1rem;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    flex: 1 0 auto;
+    max-width: fit-content;
+    box-sizing: border-box;
+    border-spacing: 2px;
+    border-color: #3a3a3a;
 }
 
 footer {
