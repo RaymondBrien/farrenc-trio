@@ -121,36 +121,45 @@ fieldset {
 
 /* Services Page */
 #repertoire {
-    margin: 1rem;
-    padding: 10px;
+    margin: 0rem;
+    padding: 15px;
     display: flex;
     flex-direction: column;
     flex: 1 0 auto;
-    max-width: 90%;
     box-sizing: border-box;
     border-spacing: 2px;
     border-color: #3a3a3a;
 }
 
 table, th, td {
-    width: 50%;
+    max-width: 100%;
     text-align: center;
     border-collapse: collapse;
     border-bottom: 1px solid #485953;
+
 }
 
-th  {
+th, td  {
     height: 70px;
-    font-weight: 400;
+}
+
+#classical th {
+    font-size: 20px;
+}
+
+#contemporary th {
+    font-size: 12px;
+    padding: 5px;
 }
 
 td {
-    font-size: small;
+    font-size: 10px;
 }
 
-#contemporary {
-    font-size: .65em;
+#contemporary td {
+    padding-bottom: 2px;
 }
+
 
 /* GALLERY */
 #gallery {
