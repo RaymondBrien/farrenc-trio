@@ -9,29 +9,29 @@
     box-sizing: border-box;
 }
 
-header {
-    /* FIX COLORs */
-    background-color: rgb(227, 227, 237);
-    color: aliceblue;
+/* NAVBAR */
+#navbar {
+    background-color: aliceblue;
+    color: #3a3a3a;
     display: flex;
     padding: 0 2rem;
     position: fixed;
     z-index: 99;
     width: 100%;
     box-shadow: 0 2px 2px #3a3a3a;
+    margin: auto;
     justify-content: space-between;
     align-items: baseline;
 }
 
-/* NAVBAR */
-.active {
-    color: rgb(211, 215, 218);
-    font-style: none;
+#navbar a {
+    text-decoration: none;
+    color: #000000;
 }
 
 nav {
     position: absolute;
-    color: aliceblue;
+    background-color: aliceblue;
     left: 0;
     display: none;
     width: 100%;
@@ -39,9 +39,20 @@ nav {
     padding: 0 1rem;
 }
 
+#menu   {
+    list-style-type: none;
+    margin-left: 7.5rem;
+}
+
+.active {
+    color: rgb(211, 215, 218);
+    font-style: none;
+}
+
 /* Nav toggle */
 #nav-toggle:checked~nav {
     display: block;
+    box-shadow: 0 2px 2px #3a3a3a;
     }
     
 #nav-toggle {
@@ -49,7 +60,7 @@ nav {
 }
     
 .nav-toggle-label {
-    font-size: 2rem;
+    font-size: 1.5rem;
     color: #3a3a3a;
 }
 
@@ -61,7 +72,7 @@ nav {
 main {
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
-    margin-top: 100px;
+    margin-top: 37px;
 
 }
 
