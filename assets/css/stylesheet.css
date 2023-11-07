@@ -58,7 +58,7 @@ nav {
 #nav-toggle {
     display: none;
 }
-    
+  
 .nav-toggle-label {
     font-size: 1.5rem;
     color: #3a3a3a;
@@ -72,7 +72,7 @@ nav {
 main {
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
-    margin-top: 37px;
+    margin-top: 76px;
 
 }
 
@@ -91,9 +91,10 @@ body {
     font-size: 100%;
 }
 
-
-
-
+/* Received message page */
+#received-message {
+    align-self: center;
+}
 
 /* Contact Page  */
 fieldset {
@@ -101,8 +102,6 @@ fieldset {
     margin: 5px;
     max-width: 90vw;
 }
-
-
 
 /* Services Page */
 #repertoire {
@@ -122,11 +121,9 @@ table, th, td {
     text-align: center;
     border-collapse: collapse;
     border-bottom: 1px solid #485953;
-    font
 }
 
 th  {
-    font-style: ;
     height: 70px;
     font-weight: 400;
 }
@@ -138,8 +135,6 @@ td {
 #contemporary {
     font-size: .65em;
 }
-
-
 
 footer {
     background-color: blueviolet;
