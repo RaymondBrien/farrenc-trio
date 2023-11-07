@@ -105,6 +105,18 @@ fieldset {
     max-width: 90vw;
 }
 
+#contact-tips {
+    align-items: center;
+    margin: 1rem 2rem 1rem 2rem;
+}
+
+
+#reset-label {
+    font-size: small;
+    font-style: italic;
+    font-weight: 500;
+}
+
 /* Services Page */
 #repertoire {
     margin: 1rem;
