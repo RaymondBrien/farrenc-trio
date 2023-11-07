@@ -147,13 +147,15 @@ th, td  {
     font-size: 20px;
 }
 
+td {
+    font-size: 10px;
+}
+
 #contemporary th {
     font-size: 12px;
     padding: 5px;
-}
-
-td {
-    font-size: 10px;
+    padding-bottom: 0;
+    font-weight: 100;
 }
 
 #contemporary td {
@@ -187,5 +189,25 @@ footer {
     width: 100%;
     color: #D9D7D7;
     display: flex;
+}
+
+/* Query for larger phones and screens larger than 576px */
+@media screen and (min-width: 576px;) {
 
 }
+
+/* Query for tablets and screens larger than 768px */
+@media screen and (min-width: 768px;) {
+    
+}
+    
+/* Query for laptops and screens larger than 992px */
+@media screen and (min-width: 992px;) {
+    
+}
+
+/* Query for large laptops and screens larger than 1200px */
+@media screen and (min-width: 1200px;) {
+    
+}
+    
