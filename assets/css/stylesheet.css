@@ -100,7 +100,7 @@ main {
 
 #hero-image {
     min-height: 12rem;
-    width: 100vw;
+    width: 100%;
     object-fit: cover;
 }
 
@@ -200,10 +200,6 @@ td {
 #photos {
     flex-direction: column;
     flex-wrap: wrap;
-}
-
-img {
-    max-width: 90%;
 }
 
 iframe {
