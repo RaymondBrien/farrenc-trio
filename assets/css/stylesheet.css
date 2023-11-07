@@ -27,6 +27,8 @@
 #navbar a {
     text-decoration: none;
     color: #000000;
+    margin: 10px 10px;
+
 }
 
 nav {
@@ -150,11 +152,6 @@ td {
     font-size: .65em;
 }
 
-footer {
-    background-color: blueviolet;
-    display: flex;
-}
-
 /* GALLERY */
 #gallery {
     margin: 1rem 1rem;
@@ -162,17 +159,24 @@ footer {
 }
 
 #photos {
-    flex-direction: row;
+    flex-direction: column;
     flex-wrap: wrap;
 }
 
 img {
     max-width: 90%;
-    max-height: auto;
-    ;
 }
 
 iframe {
     max-width: 90vw;
     padding: 10px;
+}
+
+footer {
+    background-color: #485953;
+    height: 25px;
+    width: 100%;
+    color: #D9D7D7;
+    display: flex;
+
 }
