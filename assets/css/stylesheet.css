@@ -14,7 +14,7 @@
     background-color: aliceblue;
     color: #3a3a3a;
     display: flex;
-    padding: 0 2rem;
+    padding: 0 1rem;
     position: fixed;
     z-index: 99;
     width: 100%;
@@ -41,7 +41,7 @@ nav {
 
 #menu   {
     list-style-type: none;
-    margin-left: 7.5rem;
+    letter-spacing: 1px;
 }
 
 .active {
@@ -74,6 +74,11 @@ main {
     flex: 1 0 auto;
     margin-top: 37px;
 
+}
+
+#hero {
+    width: 100%;
+    max-height: 30rem;
 }
 
 body {
@@ -117,10 +122,6 @@ footer {
 }
 
 /* GALLERY */
-#gallery {
-    padding-top: 30px;
-}
-
 #photos {
     display: flex;
     flex: 1 0 auto;
@@ -130,7 +131,7 @@ footer {
 
 img {
     border: solid 2px #000000;
-    max-width: 100%;
+    max-width: 90%;
     max-height: auto;
 }
 
