@@ -188,26 +188,33 @@ footer {
     height: 25px;
     width: 100%;
     color: #D9D7D7;
-    display: flex;
 }
 
+#footer {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+/* Query for larger phones and screens smaller than 576px */
+@media screen and (max-width: 576px) {
+
+
+
 /* Query for larger phones and screens larger than 576px */
-@media screen and (min-width: 576px;) {
+@media screen and (min-width: 576px) {
+
+    table {
+        min-width: 520px;
+    }
 
 }
 
 /* Query for tablets and screens larger than 768px */
-@media screen and (min-width: 768px;) {
+@media screen and (min-width: 768px) {
     
 }
     
 /* Query for laptops and screens larger than 992px */
-@media screen and (min-width: 992px;) {
-    
-}
-
-/* Query for large laptops and screens larger than 1200px */
-@media screen and (min-width: 1200px;) {
-    
-}
+@media screen and (min-width: 992px) {
     
