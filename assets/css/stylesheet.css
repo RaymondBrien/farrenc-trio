@@ -73,6 +73,8 @@ main {
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
     margin-top: 76px;
+    margin-left: 10px;
+    margin-right: 10px;
 
 }
 
