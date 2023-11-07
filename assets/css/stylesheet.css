@@ -19,7 +19,6 @@
     z-index: 99;
     width: 100%;
     box-shadow: 0 2px 2px #3a3a3a;
-    margin: auto;
     justify-content: space-between;
     align-items: baseline;
 }
@@ -96,8 +95,8 @@ body {
 
 /* Contact Page  */
 fieldset {
-    padding: 1rem;
-    margin: 10px;
+    padding: 0.5rem;
+    margin: 5px;
     max-width: 90vw;
 }
 
@@ -122,6 +121,10 @@ footer {
 }
 
 /* GALLERY */
+#gallery {
+    margin: 1rem 1rem;
+}
+
 #photos {
     display: flex;
     flex: 1 0 auto;
@@ -133,9 +136,10 @@ img {
     border: solid 2px #000000;
     max-width: 90%;
     max-height: auto;
+    align-self: center;
 }
 
-#video {
-    background-color: #3a3a3a;
+iframe {
+    max-width: 90vw;
     padding: 10px;
 }
