@@ -33,7 +33,7 @@
 
 nav {
     position: absolute;
-    background-color: aliceblue;
+    background-color: #D9D7D7;
     left: 0;
     display: none;
     width: 100%;
@@ -132,7 +132,8 @@ fieldset {
 }
 
 table, th, td {
-    max-width: 100%;
+    width: 100%;
+    table-layout: fixed;
     text-align: center;
     border-collapse: collapse;
     border-bottom: 1px solid #485953;
