@@ -83,9 +83,15 @@ main {
 
 }
 
-#hero {
-    width: 100%;
-    max-height: 30rem;
+#hero-image {
+    min-height: 12rem;
+    width: 105vw;
+    object-fit: cover;
+}
+
+#hero   {
+    object-fit: cover;
+    width: 105vw;
 }
 
 body {
@@ -194,6 +200,7 @@ footer {
     color: #D9D7D7;
 }
 
+/* FOOTER */
 #footer {
     display: flex;
     justify-content: space-between;
