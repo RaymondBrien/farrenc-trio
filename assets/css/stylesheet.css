@@ -109,11 +109,17 @@ fieldset {
     display: flex;
     flex-direction: column;
     flex: 1 0 auto;
-    max-width: fit-content;
+    max-width: 90%;
     box-sizing: border-box;
     border-spacing: 2px;
     border-color: #3a3a3a;
 }
+
+table {
+    width: 50%;
+}
+
+
 
 footer {
     background-color: blueviolet;
