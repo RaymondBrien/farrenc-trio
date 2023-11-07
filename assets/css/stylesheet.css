@@ -158,20 +158,18 @@ footer {
 /* GALLERY */
 #gallery {
     margin: 1rem 1rem;
+    display: flex;
 }
 
 #photos {
-    display: flex;
-    flex: 1 0 auto;
     flex-direction: row;
     flex-wrap: wrap;
 }
 
 img {
-    border: solid 2px #000000;
     max-width: 90%;
     max-height: auto;
-    align-self: center;
+    ;
 }
 
 iframe {
