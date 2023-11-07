@@ -38,15 +38,15 @@ nav {
     display: none;
     width: 100%;
     top: 100%;
-    padding: 0 1rem;
+    padding: 0 0.05rem;
 }
 
 #menu   {
     list-style-type: none;
     letter-spacing: 1px;
     display: flex;
-    align-items: center;
-    justify-content: flex-end;
+    align-items: flex-end;
+    flex-direction: column;
 }
 
 .active {
