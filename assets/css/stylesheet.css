@@ -1,16 +1,18 @@
-/* Google fonts import */
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200;300;400;500;600;700&family=Playfair+Display&display=swap');
+/* Playfair Display font import */
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200;300;400;500;600;700&family=Playfair+Display:ital@0;1&display=swap');
 
 /* General Styles */
 * {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    font-family: 'Playfair Display', serif;
 }
 
-/* NAVBAR */
+/* Sticky Navbar */
 #navbar {
-    background-color: aliceblue;
+    background-color: #D9D7D7;
+    font-family: 'Playfair Display', serif;
     color: #3a3a3a;
     display: flex;
     padding: 0 1rem;
@@ -80,12 +82,13 @@ main {
 }
 
 body {
-    background-color: aqua;
+    background-color: #D9D7D7;
     display: flex;
     flex-direction: column;
     /* Make main element take up any space and push footer to bottom */
     flex: 1 0 auto;
     min-height: 100vh;
+    font-size: 100%;
 }
 
 
@@ -114,8 +117,26 @@ fieldset {
     border-color: #3a3a3a;
 }
 
-table {
+table, th, td {
     width: 50%;
+    text-align: center;
+    border-collapse: collapse;
+    border-bottom: 1px solid #485953;
+    font
+}
+
+th  {
+    font-style: ;
+    height: 70px;
+    font-weight: 400;
+}
+
+td {
+    font-size: small;
+}
+
+#contemporary {
+    font-size: .65em;
 }
 
 
