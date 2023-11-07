@@ -1,6 +1,5 @@
 /* Google fonts import */
-@import url("");
-
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200;300;400;500;600;700&family=Playfair+Display&display=swap');
 
 /* General Styles */
 * {
