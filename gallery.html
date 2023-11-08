@@ -16,7 +16,10 @@
     <link rel="stylesheet" href="assets/css/stylesheet.css">
     <!-- FontAwesome -->
     <script src="https://kit.fontawesome.com/ca6814fb27.js" crossorigin="anonymous"></script>
+    <!-- Carousel link -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/carousel/carousel.css"/>
 </head>
+
 <body>
     <!-- Navbar -->
     <header>
@@ -36,29 +39,65 @@
     </header>
 
     <!-- Main Content -->
-    <main id="gallery">
-        <div>
-            <h2>Gallery</h2>
-            <p><em>Photos by Helena Cooke</em></p>
-            <div id="photos">
-                <img src="assets/images/blacklandscape.webp" alt="Farrenc Trio landscape: photo 1">
-                <img src="assets/images/blackportrait.webp" alt="Farrenc Trio portrait: photo 2">
-                <img src="assets/images/celloportrait.webp" alt="Farrenc Trio portrait: photo 3">
-                <img src="assets/images/cololandscape3.webp" alt="Farrenc Trio landscape: photo 4">
-                <img src="assets/images/colorlandscape1.webp" alt="Farrenc Trio landscape: photo 5">
-                <img src="assets/images/colorlandscape2.webp" alt="Farrenc Trio landscape: photo 6">
-                <img src="assets/images/colorportrait1.webp" alt="Farrenc Trio portrait: photo 7">
+    <main id="gallery" class="more-padding-top">
+        <div class="f-carousel" id="myCarousel">
+            <div
+                class="f-carousel__slide"
+                data-lazy-src="https://lipsum.app/id/1/1200x675"
+            >
+                1
             </div>
-            <div id="video"> 
+            <div
+                class="f-carousel__slide"
+                data-lazy-src="https://lipsum.app/id/2/1200x675"
+            >
+                2
+            </div>
+            <div
+                class="f-carousel__slide"
+                data-lazy-src="https://lipsum.app/id/3/1200x675"
+            >
+                3
+            </div>
+            <div
+                class="f-carousel__slide"
+                data-lazy-src="https://lipsum.app/id/4/1200x675"
+            >
+                4
+            </div>
+            <div
+                class="f-carousel__slide"
+                data-lazy-src="https://lipsum.app/id/5/1200x675"
+            >
+                5
+            </div>
+        </div>
+        <div class="f-carousel" id="myCarousel">
+            <div class="f-carousel__viewport">
+              <div class="f-carousel__track">
+                <div class="f-carousel__slide">1</div>
+                <div class="f-carousel__slide">2</div>
+                <div class="f-carousel__slide">3</div>
+              </div>
+            </div>
+          </div>
+          
+
+        <!-- <div id="video"> 
                 <iframe src="https://www.youtube.com/embed/1nYyx_EV-ec?si=QJ-0vVrgZQ3Rj2QJ" 
                 title="YouTube video player" frameborder="0" allow="web-share" allowfullscreen></iframe>
             </div>
-        </div> 
+        </div>  -->
     </main>
     
     <!-- Footer -->
     <footer>
         <a href="contact.html">Get In Touch</a>
     </footer>
+        
+    <!-- Fancyapps Carousel -->
+        <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/carousel/carousel.umd.js"></script>
+        
+        <script src="assets/js/carousel.js"></script>
 </body>
 </html>

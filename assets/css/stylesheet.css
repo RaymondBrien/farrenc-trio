@@ -14,8 +14,8 @@
 }
 
 #filler {
-    height: 75px;
-    z-index: 1;
+    margin-top: 75px;
+    background-color: #000000;
 }
 
 .link {
@@ -26,6 +26,10 @@
 .light-link {
     color: #D9D7D7;
     text-decoration: none;
+}
+
+.more-padding-top {
+    margin-top: 75px;
 }
 
 #diamond {
@@ -219,6 +223,17 @@ td {
     margin: 1rem 1rem;
     display: flex;
 }
+
+.f-carousel-slide {
+    width: 100%;
+  }
+  
+  @media (min-width: 768px) {
+    .f-carousel-slide {
+      width: calc(100% / 3);
+    }
+  }
+  
 
 #photos {
     flex-direction: column;
