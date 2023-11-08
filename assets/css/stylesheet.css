@@ -11,7 +11,6 @@
 
 h1, h2, h3 {
     text-align: center;
-    padding: 20px;
 }
 
 .full-width {
@@ -106,6 +105,7 @@ nav {
 main {
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
+    margin-top: 25px;
 }
 
 #testamonial {
@@ -169,17 +169,22 @@ fieldset {
     
 }
 
+
 fieldset input, fieldset select, textarea {
     width: 50%;
     max-width: 70em;
 }
 
 #contact-tips {
-    align-items: center;
+    text-align: center;
     margin: 1rem 2rem 1rem 2rem;
     border: 1px solid #3a3a3a;
 }
 
+#contact-tips ul {
+    list-style-type: none;
+    font-weight: bold;
+}
 
 #reset-label {
     font-size: small;
