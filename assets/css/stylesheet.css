@@ -254,7 +254,7 @@ td {
     font-size: 12px;
     padding: 5px;
     padding-bottom: 0;
-    font-weight: 100;
+    font-weight: 100; 
 }
 
 #contemporary td {
@@ -262,16 +262,16 @@ td {
 }
 
 #container-services {
-    height: 300px;
+    display: flex;
     width: 100%;
-    padding-top: 7px;
+    max-height: 20rem;
+    background-position: left;
 }
 
 #container-services img {
     object-fit: cover;
     min-height: 20rem;
     width: 100%;
-
 }
 
 
