@@ -25,7 +25,7 @@ li {
     width: 100%;
 }
 
-#filler {
+.filler {
     margin-top: 75px;
     background-color: #000000;
 }
@@ -272,9 +272,6 @@ td {
     object-fit: cover;
     min-height: 20rem;
     width: 100%;
-}
-
-
 }
 
 /* GALLERY */
