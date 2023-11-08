@@ -113,8 +113,11 @@ main {
 }
 
 #news-list, #biography p {
-    padding-left: 20px;
-    padding-right: 20px;
+    padding: 5px 20px;
+}
+
+#news-list li {
+    padding: 5px 0;
 }
 
 #hero-image {
