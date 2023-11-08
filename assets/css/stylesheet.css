@@ -218,6 +218,11 @@ fieldset input, fieldset select, textarea {
 }
 
 /* Services Page */
+
+#services p {
+      padding: 20px;
+}
+
 #repertoire {
     margin: 0rem;
     padding: 15px;
