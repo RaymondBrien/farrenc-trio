@@ -213,8 +213,8 @@ fieldset input, fieldset select, textarea {
 
 #contact-image img {
     object-fit: cover;
-    max-width: 50rem;
-    max-height: 55rem;
+    min-height: 20rem;
+    width: 100%;
 }
 
 /* Services Page */
