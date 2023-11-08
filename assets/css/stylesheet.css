@@ -208,11 +208,13 @@ fieldset input, fieldset select, textarea {
     display: flex;
     width: 100%;
     max-height: 20rem;
+    background-position: left;
 }
 
 #contact-image img {
     object-fit: cover;
-    object-position: center;
+    max-width: 50rem;
+    max-height: 55rem;
 }
 
 /* Services Page */
