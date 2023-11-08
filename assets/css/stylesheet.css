@@ -13,6 +13,10 @@ h1, h2, h3 {
     text-align: center;
 }
 
+li {
+    margin-top: 10px;
+}
+
 .full-width {
     width: 100%;
 }
@@ -162,28 +166,16 @@ body {
 /* Contact Page  */
 fieldset {
     padding: 0.5rem;
-    margin: 0 auto;
+    margin: 15px auto;
     width: 70%;
     max-width: 70em;
     text-align: center;
     
 }
 
-
 fieldset input, fieldset select, textarea {
     width: 50%;
     max-width: 70em;
-}
-
-#contact-tips {
-    text-align: center;
-    margin: 1rem 2rem 1rem 2rem;
-    border: 1px solid #3a3a3a;
-}
-
-#contact-tips ul {
-    list-style-type: none;
-    font-weight: bold;
 }
 
 #reset-label {
@@ -192,6 +184,28 @@ fieldset input, fieldset select, textarea {
     font-weight: 500;
 }
 
+#contact-tips {
+    text-align: left;
+    margin: 1rem 2rem 1rem 2rem;
+}
+
+#contact-tips div {
+    border: 5px solid #3a3a3a;
+    margin-top: 15px;
+}
+
+#contact-tips ul {
+    list-style-type: georgian;
+    font-weight: bold;
+    padding: 30px;
+}
+
+#contact-image {
+    display: flex;
+    flex: auto;
+    width: 100%;
+    max-height: 20rem;
+}
 /* Services Page */
 #repertoire {
     margin: 0rem;
