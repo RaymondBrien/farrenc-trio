@@ -264,12 +264,26 @@ td {
 #gallery {
     margin: 1rem 1rem;
     display: flex;
+}
+
+#myCarousel {
     width: 100%;
 }
 
-#photos {
-    flex-direction: column;
-    flex-wrap: wrap;
+.f-carousel__slide {
+    height: auto;
+    width: 100%; 
+    padding: 0;
+    line-height: 0;
+    object-fit: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+#carousel-two, #carousel-three, #carousel-seven {
+    background-position: center 60%;
+    width: 100%;
 }
 
 iframe {
@@ -290,6 +304,10 @@ footer {
 
 footer i {
     padding: 0 30px;
+}
+
+#carousel-one {
+    transform: rotate(180deg);
 }
 
 
@@ -314,4 +332,5 @@ footer i {
     
 /* Query for laptops and screens larger than 992px */
 @media screen and (min-width: 992px) {
-    
+
+}
