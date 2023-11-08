@@ -125,17 +125,24 @@ main {
 
 #biography, #news {
     margin: 10px;
-    display: flex;
+    /* display: flex; ADD FOR LARGER SCREENS QUERY */
     justify-content: space-around;
     padding-top: 15px;
 }
 
+#news > legend {
+    font-weight: 300;
+    font-size: large;
+}
+
 #news-list, #biography p {
     padding: 5px 20px;
+    text-align: justify;
 }
 
 #news-list li {
-    padding: 5px 0;
+    text-align: left;
+    font-size: 16px;
 }
 
 #hero-image {
