@@ -261,6 +261,21 @@ td {
     padding-bottom: 2px;
 }
 
+#container-services {
+    height: 300px;
+    width: 100%;
+    padding-top: 7px;
+}
+
+#container-services img {
+    object-fit: cover;
+    min-height: 20rem;
+    width: 100%;
+
+}
+
+
+}
 
 /* GALLERY */
 #gallery {
