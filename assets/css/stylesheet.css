@@ -13,6 +13,10 @@ h1, h2, h3 {
     text-align: center;
 }
 
+.container {
+    overflow: hidden;
+}
+
 li {
     margin-top: 10px;
 }
@@ -202,10 +206,15 @@ fieldset input, fieldset select, textarea {
 
 #contact-image {
     display: flex;
-    flex: auto;
     width: 100%;
     max-height: 20rem;
 }
+
+#contact-image img {
+    object-fit: cover;
+    object-position: center;
+}
+
 /* Services Page */
 #repertoire {
     margin: 0rem;
