@@ -94,6 +94,10 @@ main {
     margin-top: 25px;
 }
 
+#testamonial {
+    text-align: center;
+}
+
 #biography, #news {
     margin: 10px;
 }
