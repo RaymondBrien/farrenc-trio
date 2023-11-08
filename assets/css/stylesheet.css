@@ -18,7 +18,8 @@ h1, h2, h3, p {
 }
 
 li {
-    margin-top: 10px;
+    margin: 10px;
+    font-size: large;
 }
 
 .full-width {
