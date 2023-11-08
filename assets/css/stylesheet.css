@@ -295,7 +295,25 @@ td {
     width: 100%;
     padding-top: 40px;
 
+    --f-button-width: 38px;
+    --f-button-height: 38px;
+    
+    --f-button-svg-width: 16px;
+    --f-button-svg-height: 16px;
+    --f-button-svg-stroke-width: 2.5;
+    
+    --f-button-color: rgb(61, 133, 234);
+    --f-button-border-radius: 50%;
+    --f-button-shadow: 0 6px 12px -2px rgb(50 50 93 / 25%), 0 3px 7px -3px rgb(0 0
+            0 / 30%);
+    
+    --f-button-bg: #fff;
+    --f-button-hover-bg: #f9f9f9;
+    --f-button-active-bg: #f0f0f0;
+    --f-button-is-next: #f0f0f0;
+    
 }
+
 .f-carousel__slide {
     height: auto;
     width: 100%; 
@@ -303,16 +321,14 @@ td {
     line-height: 0;
     object-fit: cover;
     background-size: contain;
-    background-repeat: no-repeat;
-    
-
+    background-repeat: no-repeat;   
 }
 
 #carousel-two, #carousel-three, #carousel-seven {
     background-position: center 60%;
     width: 100%;
 }
-
+  
 /* iframe {
     max-width: 90vw;
     padding: 10px;
