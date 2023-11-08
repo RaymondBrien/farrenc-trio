@@ -39,45 +39,51 @@
         <!-- To push down main without affecting each page -->
         <div id="filler"></div>
         <h2>Contact Us</h2>
-
-        <!-- Links to confirmation page to confirm form received  -->
-        <form action="confirmation.html">
-            <fieldset>
-                <legend>Contact Form:</legend>
-                <label for="name">Full Name:</label>
-                <br>
-                <input type="name" placeholder="Sasha" required>
-                <br>
-                <br>
-                <label for="reason">Reason for Contacting:</label>
-                <select name="reason" id="reason" required>
-                    <option value="reason" selected></option>
-                    <option value="booking">Booking Inquery</option>
-                    <option value="rates">Rates Questions</option>
-                    <option value="idea">Project or Collaboration Request</option>
-                    <option value="other">Other</option>
-                </select>
-                <br>
-                <br>
-                <label for="email">Email:</label>
-                <br>
-                <input type="email" required>
-                <br>
-                <br>
-                <label for="phone">Contact Number:</label>
-                <br>
-                <input type="text" required placeholder="+44770044111" pattern="^\+?[0-9]{6,12}$">
-                <br>
-                <br>
-                <label for="message">Message</label>
-                <textarea name="message" id="" cols="30" rows="10" required placeholder="Tell us more here. Please refer to our 'contact tips' section below before you send."></textarea>
-                <br>
-                <br>
-                <input type="submit" name="contact-submit" id="contact-submit">
-                <br>
-                <label for="reset" id="reset-label">Reset contact form:</label>
-                <input type="reset" name="reset" id="reset">
-            </fieldset>
+        <div id="contact-form">
+            <!-- Links to confirmation page to confirm form received  -->
+            <form action="confirmation.html">
+                <fieldset>
+                    <legend>Contact Form:</legend>
+                    <label for="name">Full Name:</label>
+                    <br>
+                    <input type="name" placeholder="Sasha" required>
+                    <br>
+                    <br>
+                    <label for="reason">Reason for Contacting:</label>
+                    <br>
+                    <select name="reason" id="reason" required>
+                        <option value="reason" selected></option>
+                        <option value="booking">Booking Inquery</option>
+                        <option value="rates">Rates Questions</option>
+                        <option value="idea">Project or Collaboration Request</option>
+                        <option value="other">Other</option>
+                    </select>
+                    <br>
+                    <br>
+                    <label for="email">Email:</label>
+                    <br>
+                    <input type="email" required>
+                    <br>
+                    <br>
+                    <label for="phone">Contact Number:</label>
+                    <br>
+                    <input type="text" required placeholder="+44770044111" pattern="^\+?[0-9]{6,12}$">
+                    <br>
+                    <br>
+                    <label for="message">Message:</label>
+                    <br>
+                    <textarea name="message" id="" cols="30" rows="10" required placeholder="Tell us more here. Please refer to our 'contact tips' section below before you send."></textarea>
+                    <br>
+                    <br>
+                    <input type="submit" name="contact-submit" id="contact-submit">
+                    <br>
+                    <br>
+                    <label for="reset" id="reset-label">Reset contact form:</label>
+                    <br>
+                    <input type="reset" name="reset" id="reset">
+                </fieldset>
+        </div>
+        
 
         <!-- Contact Tips -->
         <section id="contact-tips">

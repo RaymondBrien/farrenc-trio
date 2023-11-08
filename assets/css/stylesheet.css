@@ -9,6 +9,11 @@
     font-family: 'Playfair Display', serif;
 }
 
+h1, h2, h3 {
+    text-align: center;
+    padding: 20px;
+}
+
 .full-width {
     width: 100%;
 }
@@ -157,13 +162,22 @@ body {
 /* Contact Page  */
 fieldset {
     padding: 0.5rem;
-    margin: 5px;
-    min-width: 90vw;
+    margin: 0 auto;
+    width: 70%;
+    max-width: 70em;
+    text-align: center;
+    
+}
+
+fieldset input, fieldset select, textarea {
+    width: 50%;
+    max-width: 70em;
 }
 
 #contact-tips {
     align-items: center;
     margin: 1rem 2rem 1rem 2rem;
+    border: 1px solid #3a3a3a;
 }
 
 
