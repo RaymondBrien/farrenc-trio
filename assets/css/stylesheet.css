@@ -377,6 +377,7 @@ footer {
     text-align: center;
     letter-spacing: 3px;
     padding: 10px;
+    align-items: center;
 
 }
 
@@ -384,10 +385,9 @@ footer i {
     padding: 0 30px;
 }
 
-#carousel-one {
-    transform: rotate(180deg);
+footer p {
+    font-size: 10px;
 }
-
 
 /* Query for larger phones and screens smaller than 576px */
 @media screen and (max-width: 576px) {
