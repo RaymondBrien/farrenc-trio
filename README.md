@@ -2,21 +2,31 @@
 
 # [FARRENC TRIO.GIT](https://raymondbrien.github.io/farrenc-trio)
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
 
+TAKE OUT ALL COMMENTED OUT SECTIONS!!!!!!!!!!!!!!!!!!!!!!!
+<!-- 
 In this section, you will include a few paragraphs providing an overview of your project.
-Essentially, this part is your "sales pitch".
-
+Essentially, this part is your "sales pitch". -->
+<!-- 
 At this stage, you should have a name for your project so use it!
-Don't introduce the project as a "portfolio project" for the diploma.
+Don't introduce the project as a "portfolio project" for the diploma. -->
 
-In this section, describe what the project hopes to accomplish, who it is intended to target, and how it will be useful to the target audience.
+The Farrenc Trio is a classical chamber music ensemble based in London who were in need of a custom website, with two primary goals: establishing an online presence 
+and creating numerous opportunities for music professionals to get in touch with the trio directly for bookings and enquiries.
+Farrenc Trio as a site aims to promote the trio's work, versatility and online presence in a simple and clean way, laying out information in clearly definited pages with 
+responsive media and good SEO. The four pages (which, as they appear on the website are named 'Home', 'Contact', 'Services' and 'Gallery') prioritise and categorise information 
+in order of relevance to the trio's goals for the site, from most important to least important. 
 
-Consider adding a mockup image using the "Am I Responsive" website.
+The site has been designed mobile-first, given the high liklihood that the majority of users for the site will visit the site using mobile devices, at least as a first visit.
+
+First impressions online for festival promoters in particular are essential; the site aims to cater particularly with promoteres in mind, taking into account specific 
+areas of information that are directly relevant to them such as 'Biography', 'News' and 'Repertoire' sections respectively. 
+
+<!-- Add mockup image using the "Am I Responsive" website AFTER MEDIA QUERIES FINISHED"
 Here's your deployed site as an example:
-https://ui.dev/amiresponsive?url=https://raymondbrien.github.io/farrenc-trio
+https://ui.dev/amiresponsive?url=https://raymondbrien.github.io/farrenc-trio -->
 
-Screenshots for the README and testing should not be inside of `assets/` or `static/` image folders.
+<!-- Screenshots for the README and testing should not be inside of `assets/` or `static/` image folders.
 (reminder: `assets/` and `static/` are for files used on the live site, not documentation)
 Consider adding a new folder called `documentation`, and add the amiresponsive screenshot inside of that folder.
 To add the image into your README, use this format:
@@ -26,37 +36,36 @@ To add the image into your README, use this format:
 
 Note: Markdown files (.md) should not contain HTML elements like `img`, `br`, `div`, `a`, etc, only Markdown formatting.
 Find out more about using Markdown elements here:
-https://pandao.github.io/editor.md/en.html
+https://pandao.github.io/editor.md/en.html -->
 
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
 
 ## UX
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
-
-In this section, you will briefly explain your design processes.
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
+The user experience has been designed to ensure that information which is direclty relevant for the target audience of event promoters and festival promoters is never more than two 
+actions away, through four clearly labelled headings, each with subheadings and icons associated with its attached title (such as a statue for 'classical' subheading in the repertoire page)
+to easily categorise and find information using visual aids.
+There is at least one opportunity per page to link directly to the 'Contact' page, no matter whether the website is visited on mobile, tablet, laptop or desktop machine, highlighted in a
+different color than the rest of the page.
+These designs are intended to be in line with the primary goal of having a clear website which establishes an online presence with a good SEO and enables promoters to contact the trio 
+directly for bookings.
 
 ### Colour Scheme
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
+<!-- ⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
 
-Explain your colours and the colour scheme.
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
+COMPLETE AFTER FINISHING FINAL DETAILS: 
+Explain your colours and the colour scheme. -->
 
 - `#000000` used for primary text.
 - `#E84610` used for primary highlights.
 - `#4A4A4F` used for secondary text.
 - `#009FE3` used for secondary highlights.
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
 
-Consider adding a link and screenshot for your colour scheme using "coolors".
-https://coolors.co/generate
+<!-- Consider adding a link and screenshot for your colour scheme using "coolors".
+https://coolors.co/generate OR ADD ADOBE SCREENSHOT WITH COLORS FROM PHOTOS CHOSEN -->
 
-When you add a colour to the palette, the URL is dynamically updated, making it easier for you to return back to your colour palette later if needed.
+<!-- When you add a colour to the palette, the URL is dynamically updated, making it easier for you to return back to your colour palette later if needed.
 
 Example:
 
@@ -64,8 +73,8 @@ Example:
 
 I used [coolors.co](https://coolors.co/e84610-009fe3-4a4a4f-445261-d63649-e6ecf0-000000) to generate my colour palette.
 
-![screenshot](documentation/coolors.png)
-
+![screenshot](documentation/coolors.png) -->
+<!-- 
 ⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
 
 If you've used CSS `:root` variables, consider also including a code snippet here!
@@ -84,13 +93,11 @@ I've used CSS `:root` variables to easily update the global colour scheme by cha
     --white: #FFFFFF;
     --black: #000000;
 }
-```
+``` -->
 
 ### Typography
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
-
-Explain any fonts and icon libraries used, like Google Fonts and/or Font Awesome.
+<!-- Explain any fonts and icon libraries used, like Google Fonts and/or Font Awesome.
 
 Consider adding a link to each font used, and the Font Awesome site if used (or similar icon library).
 
@@ -102,13 +109,16 @@ Example:
 
 - [Lato](https://fonts.google.com/specimen/Lato) was used for all other secondary text.
 
+- [Font Awesome](https://fontawesome.com) icons were used throughout the site, such as the social media icons in the footer. -->
+
+<!-- HOW ABOUT A PRIMARY HEADERS FONT?!?!?!?!?!! -->
+- [Playfair Display](https://fonts.google.com/specimen/Playfair+Display) was used for secondary text.
+
 - [Font Awesome](https://fontawesome.com) icons were used throughout the site, such as the social media icons in the footer.
 
 ## Wireframes
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
-
-In this section, display your wireframe screenshots using a Markdown `table`.
+<!-- In this section, display your wireframe screenshots using a Markdown `table`.
 Instructions on how to do Markdown `tables` start on line #213 on this site: https://pandao.github.io/editor.md/en.html
 
 Alternatively, dropdowns are a way to condense several wireframes into a collapsible menu to save space.
@@ -124,8 +134,8 @@ for the Mobile, Tablet, and Desktop wireframes.
 
 🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
 
-To follow best practice, wireframes were developed for mobile, tablet, and desktop sizes.
-I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wireframes.
+To follow best practice, wireframes were developed for mobile, tablet, and desktop sizes.-->
+
 
 ### Mobile Wireframes
 
