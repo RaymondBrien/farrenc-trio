@@ -176,9 +176,13 @@ body {
 
 /* Received message page */
 #received-message {
+    font-size: 20px;
     text-align: center;
     justify-items: center;
+    margin: 0 20px auto;
 }
+
+
 
 /* Contact Page  */
 fieldset {
