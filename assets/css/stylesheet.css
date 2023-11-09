@@ -41,6 +41,10 @@ li {
     text-decoration: none;
 }
 
+.title-padding {
+    padding-top: 20px;
+}   
+
 .more-padding-top {
     margin-top: 75px;
 }
@@ -258,19 +262,24 @@ th, td  {
     height: 70px;
 }
 
+.hidden-col {
+    display: none;
+}
+
 #classical th {
     font-size: 20px;
+    --classical-th
 }
 
 td {
-    font-size: 10px;
+    font-size: 16px;
 }
 
 th {
     text-decoration: underline;
 }
 #contemporary th {
-    font-size: 12px;
+    font-size: 20px;
     padding: 5px;
     padding-bottom: 0;
     font-weight: 200; 
