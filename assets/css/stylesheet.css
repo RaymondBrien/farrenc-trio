@@ -176,7 +176,8 @@ body {
 
 /* Received message page */
 #received-message {
-    align-self: center;
+    text-align: center;
+    justify-items: center;
 }
 
 /* Contact Page  */
