@@ -139,69 +139,63 @@ To follow best practice, wireframes were developed for mobile, tablet, and deskt
 
 ### Mobile Wireframes
 
-< details >
-< summary > Click here to see the Mobile Wireframes < / summary >
+<details>
+<summary>Click here to see the Mobile Wireframes</summary>
 
 Home
-  - ![screenshot](documentation/wireframes/mobile-home.png)
-
-About
-  - ![screenshot](documentation/wireframes/mobile-about.png)
+  - ![screenshot](documentation/wireframes/mobile-home.jpg)
 
 Contact
-  - ![screenshot](documentation/wireframes/mobile-contact.png)
+  - ![screenshot](documentation/wireframes/mobile-contact.jpg)
+
+Services
+  - ![screenshot](documentation/wireframes/mobile-services.jpg)
 
 Gallery
-  - ![screenshot](documentation/wireframes/mobile-gallery.png)
+  - ![screenshot](documentation/wireframes/mobile-gallery.jpg)
 
-etc.
-  - repeat for any remaining mobile wireframes
-
-< / details >
+</details>
 
 ### Tablet Wireframes
 
-< details >
-< summary > Click here to see the Tablet Wireframes < / summary >
+<details>
+<summary>Click here to see the Tablet Wireframes</summary>
 
 Home
-  - ![screenshot](documentation/wireframes/tablet-home.png)
-
-About
-  - ![screenshot](documentation/wireframes/tablet-about.png)
+  - ![screenshot](documentation/wireframes/mobile-home.jpg)
 
 Contact
-  - ![screenshot](documentation/wireframes/tablet-contact.png)
+  - ![screenshot](documentation/wireframes/tablet-contact.jpg)
+
+Services
+  - ![screenshot](documentation/wireframes/tablet-services.jpg)
 
 Gallery
-  - ![screenshot](documentation/wireframes/tablet-gallery.png)
+  - ![screenshot](documentation/wireframes/tablet-gallery.jpg)
 
-etc.
-  - repeat for any remaining tablet wireframes
-
-< / details >
+</details>
 
 ### Desktop Wireframes
 
-< details >
-< summary > Click here to see the Desktop Wireframes < / summary >
+<details>
+<summary>Click here to see the Desktop Wireframes</summary>
 
 Home
-  - ![screenshot](documentation/wireframes/desktop-home.png)
-
-About
-  - ![screenshot](documentation/wireframes/desktop-about.png)
+  - ![screenshot](documentation/wireframes/desktop-home.jpg)
 
 Contact
-  - ![screenshot](documentation/wireframes/desktop-contact.png)
+  - ![screenshot](documentation/wireframes/desktop-contact.jpg)
+
+Services
+  - ![screenshot](documentation/wireframes/desktop-services.jpg)
 
 Gallery
-  - ![screenshot](documentation/wireframes/desktop-gallery.png)
+  - ![screenshot](documentation/wireframes/desktop-gallery.jpg)
 
 etc.
   - repeat for any remaining desktop wireframes
 
-< / details >
+</details>
 
 ## Features
 
