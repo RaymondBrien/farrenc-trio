@@ -315,6 +315,7 @@ th {
     display: flex;
     flex-direction: column;
     align-items: flex-end;
+    
 }
 
 .f-carousel {
@@ -330,16 +331,21 @@ th {
     --f-button-svg-height: 16px;
     --f-button-svg-stroke-width: 2.5;
     
-    --f-button-color: rgb(61, 133, 234);
     --f-button-border-radius: 50%;
     --f-button-shadow: 0 6px 12px -2px rgb(50 50 93 / 25%), 0 3px 7px -3px rgb(0 0
-            0 / 30%);
-    
-    --f-button-bg: #fff;
-    --f-button-hover-bg: #f9f9f9;
-    --f-button-active-bg: #f0f0f0;
-    --f-button-is-next: #f0f0f0;
-    
+            0 / 30%);    
+}
+
+button.f-button.is-next, button.f-button.is-prev {
+    color: orange;
+    background-color: #485953;
+    position: absolute !important;
+    top: 20em !important;
+}
+
+button.f-button.is-next:hover, button.f-button.is-prev:hover  {
+    color: aqua;
+    background-color: #000000;
 }
 
 .f-carousel__slide {
@@ -349,12 +355,13 @@ th {
     line-height: 0;
     object-fit: cover;
     background-size: contain;
-    background-repeat: no-repeat;   
+    background-repeat: no-repeat;
 }
 
-#carousel-two, #carousel-three, #carousel-seven {
+#carousel-two, #carousel-four, #carousel-seven {
     background-position: center 60%;
     width: 100%;
+    margin-top: -270px;
 }
   
 /* iframe {
