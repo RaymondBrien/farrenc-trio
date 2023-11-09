@@ -178,16 +178,15 @@ body {
 /* Contact Page  */
 fieldset {
     padding: 0.5rem;
-    margin: 15px auto;
-    width: 70%;
-    max-width: 70em;
+    width: 90%;
     text-align: center;
-    
+    margin: 1rem 2rem 1rem 2rem;
 }
 
 fieldset input, fieldset select, textarea {
-    width: 50%;
-    max-width: 70em;
+    width: 80%;
+    max-width: 80%;
+    padding-left: 10px;
 }
 
 #reset-label {
@@ -223,6 +222,10 @@ fieldset input, fieldset select, textarea {
     object-fit: cover;
     min-height: 20rem;
     width: 100%;
+}
+
+#contact-submit {
+    font-weight: 300;
 }
 
 /* Services Page */
