@@ -210,7 +210,7 @@ fieldset input, fieldset select, textarea {
 }
 
 #contact-tips ul {
-    list-style-type: georgian;
+    list-style-type: circle;
     font-weight: bold;
     padding: 30px;
 }
