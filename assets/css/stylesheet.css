@@ -351,15 +351,15 @@ th {
 }
 
 button.f-button.is-next, button.f-button.is-prev {
-    color: orange;
+    color: #D9D7D7;
     background-color: #485953;
     position: absolute !important;
     top: 20em !important;
 }
 
 button.f-button.is-next:hover, button.f-button.is-prev:hover  {
-    color: aqua;
-    background-color: #000000;
+    color: #485953;
+    background-color: #D9D7D7;
 }
 
 .f-carousel__slide {
