@@ -232,6 +232,7 @@ fieldset input, fieldset select, textarea {
     object-fit: cover;
     min-height: 20rem;
     width: 100%;
+    object-fit: top;
 }
 
 #contact-submit {
@@ -306,6 +307,7 @@ th {
     object-fit: cover;
     min-height: 20rem;
     width: 100%;
+    object-position: top;
 }
 
 /* GALLERY */
