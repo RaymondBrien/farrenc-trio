@@ -199,7 +199,7 @@ etc.
 
 ## Features
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
+<!-- ⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
 
 In this section, you should go over the different parts of your project,
 and describe each in a sentence or so.
@@ -212,7 +212,7 @@ For some/all of your features, you may choose to reference the specific project 
 
 IMPORTANT: Remember to always include a screenshot of each individual feature!
 
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
+🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑 -->
 
 ### Existing Features
 
