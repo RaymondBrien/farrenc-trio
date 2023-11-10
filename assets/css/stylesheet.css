@@ -343,6 +343,14 @@ th {
             0 / 30%);    
 }
 
+
+.is-horizontal .f-carousel__nav .f-button.is-prev,
+.is-horizontal .f-carousel__nav .f-button.is-next,
+.is-horizontal .fancybox__nav .f-button.is-prev,
+.is-horizontal .fancybox__nav .f-button.is-next {
+    top: 100% !important;
+}
+
 button.f-button.is-next, button.f-button.is-prev {
     color: orange;
     background-color: #485953;
@@ -361,6 +369,7 @@ button.f-button.is-next:hover, button.f-button.is-prev:hover  {
     padding: 0;
     line-height: 0;
     object-fit: cover;
+    background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
 }
