@@ -406,6 +406,8 @@ footer p {
     padding-top: 5px;
 }
 
+
+
 /* Query for larger phones and screens smaller than 576px */
 @media screen and (max-width: 576px) { }
 
@@ -420,12 +422,34 @@ footer p {
 
 }
 
+/* TO EDIT */
 /* Query for tablets and screens larger than 768px */
-@media screen and (min-width: 768px) {
-    
-}
-    
-/* Query for laptops and screens larger than 992px */
-@media screen and (min-width: 992px) {
 
+@media screen and (min-width: 768px) {
+    /* Header */
+    nav {
+        display: block; 
+        position: relative;
+        box-shadow: none;
+        width: fit-content;
+        padding-right: 1rem;
+    }
+
+    #menu { 
+        display: flex;
+    }
+
+    #menu > li {
+        padding-left: 1rem;
+    }
+
+    .nav-toggle-label {
+        display: none;
+    }
+
+     /* Large devices (laptops and desktops, 992px and above) */
+ @media screen and (min-width: 992px) {
+    #menu a:hover {
+        border-bottom: 1px solid #3a3a3a;
+    }
 }
