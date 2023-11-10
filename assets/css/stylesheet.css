@@ -127,7 +127,7 @@ main {
     font-weight: bold;
 }
 
-#biography, #news {
+#biography, #diamond, #news {
     margin: 10px;
     /* display: flex; ADD FOR LARGER SCREENS QUERY */
     justify-content: space-around;
@@ -187,10 +187,7 @@ body {
 
 /* Contact Page  */
 fieldset {
-    padding: 0.5rem;
-    width: 90%;
     text-align: center;
-    margin: 1rem 2rem 1rem 2rem;
 }
 
 fieldset input, fieldset select, textarea {
