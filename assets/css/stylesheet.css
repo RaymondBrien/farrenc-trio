@@ -188,6 +188,8 @@ body {
 /* Contact Page  */
 fieldset {
     text-align: center;
+    margin: 1rem 2rem;
+    padding: 10px;
 }
 
 fieldset input, fieldset select, textarea {
@@ -204,7 +206,7 @@ fieldset input, fieldset select, textarea {
 
 #contact-tips {
     text-align: left;
-    margin: 1rem 2rem 1rem 2rem;
+    margin: 1rem 2rem;
 }
 
 #contact-tips div {
@@ -229,7 +231,7 @@ fieldset input, fieldset select, textarea {
     object-fit: cover;
     min-height: 20rem;
     width: 100%;
-    object-fit: top;
+    object-position: top;
 }
 
 #contact-submit {
