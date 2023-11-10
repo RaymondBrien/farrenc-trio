@@ -26,11 +26,6 @@ li {
     width: 100%;
 }
 
-.filler {
-    margin-top: 75px;
-    background-color: #000000;
-}
-
 .link {
     text-decoration: none;
     color: #000000;
@@ -45,7 +40,7 @@ li {
     padding-top: 20px;
 }   
 
-.more-padding-top {
+#received-message, #contact-heading, #services-heading {
     margin-top: 75px;
 }
 
