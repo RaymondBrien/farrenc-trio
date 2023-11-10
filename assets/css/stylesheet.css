@@ -150,9 +150,10 @@ main {
 }
 
 #hero-image {
-    min-height: 12rem;
+    min-height: 14rem;
     width: 100%;
     object-fit: cover;
+    max-height: 75vh;
 }
 
 #contact-bar {
