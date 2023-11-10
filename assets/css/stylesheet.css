@@ -373,12 +373,6 @@ button.f-button.is-next:hover, button.f-button.is-prev:hover  {
     background-size: contain;
     background-repeat: no-repeat;
 }
-
-#carousel-two, #carousel-four, #carousel-seven {
-    background-position: center 60%;
-    width: 100%;
-    margin-top: -270px;
-}
   
 /* iframe {
     max-width: 90vw;
