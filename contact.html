@@ -46,13 +46,13 @@
                     <legend>Contact Form:</legend>
                     <label for="name">Full Name:</label>
                     <br>
-                    <input type="name" placeholder="Sasha" required>
+                    <input type="text" name="name" id="name" placeholder="Sasha" required>
                     <br>
                     <br>
                     <label for="reason">Reason for Contacting:</label>
                     <br>
                     <select name="reason" id="reason" required>
-                        <option value="reason" selected></option>
+                        <option value="" disabled selected></option>
                         <option value="booking">Booking Inquery</option>
                         <option value="rates">Rates Questions</option>
                         <option value="idea">Project or Collaboration Request</option>
@@ -62,17 +62,17 @@
                     <br>
                     <label for="email">Email:</label>
                     <br>
-                    <input type="email" required>
+                    <input type="email" name="email" id="email" required>
                     <br>
                     <br>
                     <label for="phone">Contact Number:</label>
                     <br>
-                    <input type="text" required placeholder="+44770044111" pattern="^\+?[0-9]{6,12}$">
+                    <input type="text" name="phone" id="phone" placeholder="+44770044111" pattern="^\+?[0-9]{6,12}$">
                     <br>
                     <br>
                     <label for="message">Message:</label>
                     <br>
-                    <textarea name="message" id="" cols="30" rows="10" required placeholder="Tell us more here. Please refer to our 'contact tips' section below before you send."></textarea>
+                    <textarea name="message" id="message" cols="30" rows="10" required placeholder="Tell us more here. Please refer to our 'contact tips' section below before you send."></textarea>
                     <br>
                     <br>
                     <input type="submit" name="contact-submit" id="contact-submit">
@@ -81,7 +81,8 @@
                     <label for="reset" id="reset-label">Reset contact form:</label>
                     <br>
                     <input type="reset" name="reset" id="reset">
-                </fieldset>
+                </fieldset>    
+            </form>    
         </div>
         <!-- Divider  -->
         <div id="diamond"><i class="fa-solid fa-diamond"></i></div>
