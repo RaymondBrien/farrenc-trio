@@ -92,8 +92,7 @@ nav {
 }
 
 .active {
-    color: rgb(211, 215, 218);
-    text-decoration: underline black 2px;
+    text-decoration: underline black 3px;
 }
 
 /* Nav toggle */
@@ -415,7 +414,7 @@ footer p {
 
 /* Query for tablets and screens larger than 768px */
 @media screen and (min-width: 768px) {
-    /* Header */
+
     nav {
         display: block; 
         position: relative;
@@ -433,6 +432,10 @@ footer p {
         padding-left: 1rem;
     }
 
+    #menu i {
+        display: none;
+    }
+
     .nav-toggle-label {
         display: none;
     }
@@ -441,3 +444,9 @@ footer p {
         border-bottom: 1px solid #3a3a3a;
     }
 }
+
+/* Query for tablets and screens larger than 768px */
+@media screen and (min-width: 893px) {
+    #menu i {
+        display: contents;
+    }
