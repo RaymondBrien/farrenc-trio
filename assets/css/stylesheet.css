@@ -125,7 +125,11 @@ main {
 #biography, #diamond, #news {
     margin: 10px;
     justify-content: space-around;
-    padding-top: 15px;
+    padding: 20px;
+}
+
+#biography h1 {
+    padding: 15px;
 }
 
 #news > legend {
