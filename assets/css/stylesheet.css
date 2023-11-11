@@ -310,6 +310,10 @@ th {
 
 }
 
+#gallery p {
+    padding-bottom: 0.5em;
+}
+
 #myCarousel {
     width: 100%;
     height: 600px;
