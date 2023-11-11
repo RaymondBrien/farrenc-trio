@@ -437,6 +437,7 @@ footer p {
 
     #menu { 
         display: flex;
+        flex-direction: row;
     }
 
     #menu > li {
@@ -447,9 +448,12 @@ footer p {
         display: none;
     }
 
-     /* Large devices (laptops and desktops, 992px and above) */
- @media screen and (min-width: 992px) {
     #menu a:hover {
         border-bottom: 1px solid #3a3a3a;
-    }
+}
+
+     /* Large devices (laptops and desktops, 992px and above) */
+    @media screen and (min-width: 992px) {
+
+    } 
 }
