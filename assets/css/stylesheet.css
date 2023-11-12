@@ -127,8 +127,9 @@ main {
     padding: 20px;
 }
 
-#biography h1 {
+#biography h2 {
     padding: 15px;
+    font-size: 20px;
 }
 
 #news > legend {
