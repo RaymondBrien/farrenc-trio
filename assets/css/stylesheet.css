@@ -28,7 +28,7 @@ li {
 
 .link {
     text-decoration: none;
-    color: #000000;
+    color: #0B0B0D;
 }
 
 .light-link {
@@ -55,7 +55,7 @@ li {
 #navbar {
     background-color: #D9D7D7;
     font-family: 'Playfair Display', serif;
-    color: #3a3a3a;
+    color: #1F1E26;
     display: flex;
     padding: 0 1rem;
     position: fixed;
@@ -68,7 +68,7 @@ li {
 
 #navbar a {
     text-decoration: none;
-    color: #000000;
+    color: #0B0B0D;
     margin: 10px 10px;
 
 }
@@ -98,7 +98,7 @@ nav {
 /* Nav toggle */
 #nav-toggle:checked~nav {
     display: block;
-    box-shadow: 0 2px 2px #3a3a3a;
+    box-shadow: 0 2px 2px #1F1E26;
     }
     
 #nav-toggle {
@@ -107,7 +107,7 @@ nav {
   
 .nav-toggle-label {
     font-size: 1.5rem;
-    color: #3a3a3a;
+    color: #1F1E26;
 }
 
 main {
@@ -246,7 +246,7 @@ fieldset input, fieldset select, textarea {
     flex: 1 0 auto;
     box-sizing: border-box;
     border-spacing: 2px;
-    border-color: #3a3a3a;
+    border-color: #1F1E26;
 }
 
 table, th, td {
@@ -372,7 +372,7 @@ button.f-button.is-next:hover, button.f-button.is-prev:hover  {
 
 /* Footer */
 footer {
-    background-color: #000000;
+    background-color: #0B0B0D;
     width: 100%;
     color: #D9D7D7;
     text-align: center;
