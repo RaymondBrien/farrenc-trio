@@ -2,17 +2,35 @@
 
 Return back to the [README.md](README.md) file.
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
+Throughout the development of this site, rigorous testing has been a bedrock for ensuring a seamless user experience. Throughout its development every facet of the site has been maticulously scrutinised, from functionality to responsiveness. This thorough examination not only ensures the robustness of the website across multiple devices (with a mobile-first approach being given first priority) but also instills confidence to our users that it functions seamlessly across browsers for all our potential users. With a dedicated approach to quality assurance, I am confident that the website is a testament to a thorough and effective testing regimen, ensuring users encounter a smooth and reliable online environment.
 
-In this section, you need to convince the assessors that you have conducted enough testing to legitimately believe that the site works well.
-Essentially, in this part, you should go over all of your project's features, and ensure that they all work as intended,
-with the project providing an easy and straightforward way for the users to achieve their goals.
+### Throughout the testing process all the following goals were assigned:
+Layout, each page's content's order of appearance, navigation elements and page structure in accordance with the site's primary goals (enabling the trio to be contacted, providing relevant information for music promoters and establishing an online presence); 
+Navigation (for clarity, visibility within the structure, intuitive design and a smooth user experience); 
+Visibility of all elements on the page, particularly paying attention to avoid overstimulation for the user; 
+Suitable color choices and contrast for clear visual recognition and accessibility requirements; 
+Ensuring responsivity of all elements is functional with clarity being the primary goal across multiple devices and screen sizes.
 
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
+#### Below is a list of the features this site holds:
+Favicon png's (also used within the )
+Navbar (responsive and changing layout depending on screen size for optimum visibility and clear navigation across devices);
+Numerous unobtrusive fontawesome icons with clear relationships between the icon and its attributed meaning for intuitive user experience and ease of navigation;
+Multiple occaisions on each page to direct the user directly to the contact.html page;
+A fixed header element for ease of navigation, no matter where you are on any page, so that the navbar is always available;
+News sections and contact tips separated out with the use of borders (for tips) and fieldsets (for news) to differentiate content from the page's main focus and provide further clarity within each page;
+Footers which provide further opportunities to direct the user to the contact page, along with direct links which open in a new tab to the trio's social media platforms;
+A functional contact page which is only submittable with the correctly formatted required fields, taking the user to a confirmation page which, after 10 seconds, after acknowledging the user's submitted form for good user experience, automatically redirects the user back to the home page after 10 seconds, informing the user as it does so to establish user trust and ease of mind;
+Responsive photos on each page of the site which do not obstruct each page's content and provide a sense of ease to the user, with a consistent appearance across the site.
+Structured content on each page adhering in general to the rule of thirds where appropriate for suitable visual clarity and user experience;
+An interactive gallery slideshow to avoid page clutter (instead of simply listing all the photos at once) which allows the user to initiate engagement themselves with the site for a positive user expeirence;
+A responsive table which allows for the target audience of festival promoters and music-specific users to find repertoire in clearly definied categories, each with an attributed icon for clear content navigation;
+Colors, font family, font sizes, and icons were consistent across all pages for intuitive design.
+
+With all the aforementioned elements of testing and functionality in mind during the testing phase, we are confident that the project provides a straightforward way for users to achieve their primary goals in accordance with the target audience's reviewed goals and the site's primary goals.
+
+
 
 ## Code Validation
-
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
 
 Use the space to discuss code validation for any of your own code files (where applicable).
 You are not required to validate external libraries/frameworks, such as imported Bootstrap, Materialize, Font Awesome, etc.
@@ -22,6 +40,10 @@ You are not required to validate external libraries/frameworks, such as imported
 **PRO TIP**: Always validate the live site pages, not your local code. There could be subtle/hidden differences.
 
 🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
+
+
+
+
 
 ### HTML
 
