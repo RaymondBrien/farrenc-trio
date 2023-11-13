@@ -15,7 +15,6 @@ areas of information that are directly relevant to them such as 'Biography', 'Ne
 
 ![screenshot](documentation/mockup.png)
 
-
 ## UX
 
 The user experience has been designed to ensure that information which is direclty relevant for the target audience of event promoters and festival promoters is never more than two 
@@ -41,22 +40,7 @@ I used [color.adobe.com](https://color.adobe.com/create/image) to generate and i
 
 ### Typography
 
-<!-- Explain any fonts and icon libraries used, like Google Fonts and/or Font Awesome.
-
-Consider adding a link to each font used, and the Font Awesome site if used (or similar icon library).
-
-Example:
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
-- [Montserrat](https://fonts.google.com/specimen/Montserrat) was used for the primary headers and titles.
-
-- [Lato](https://fonts.google.com/specimen/Lato) was used for all other secondary text.
-
-- [Font Awesome](https://fontawesome.com) icons were used throughout the site, such as the social media icons in the footer. -->
-
-<!-- HOW ABOUT A PRIMARY HEADERS FONT?!?!?!?!?!! -->
-- [Playfair Display](https://fonts.google.com/specimen/Playfair+Display) was used for secondary text.
+- [Playfair Display](https://fonts.google.com/specimen/Playfair+Display) was used for all text.
 
 - [Font Awesome](https://fontawesome.com) icons were used throughout the site, such as the social media icons in the footer.
 
@@ -138,7 +122,7 @@ IMPORTANT: Remember to always include a screenshot of each individual feature! -
 
 ### Existing Features
 
-- **Title for feature #1**
+<!-- - **Title for feature #1**
 
     - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
 
@@ -160,22 +144,17 @@ IMPORTANT: Remember to always include a screenshot of each individual feature! -
 
 Repeat as necessary for as many features as your site contains.
 
-Hint: the more, the merrier!
+Hint: the more, the merrier! -->
 
 
 ### Future Features
 
-<!-- 
-Consider adding any helpful links or notes to help remind you in the future, if you revisit the project in a couple years. -->
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
-- Title for future feature #1
-    - Any additional notes about this feature.
-- Title for future feature #2
-    - Any additional notes about this feature.
-- Title for future feature #3
-    - Any additional notes about this feature.
+ - Newsletter sign-up
+    - The ability to register for the trio's newsletter which would automatically add you to the trio's mailing list.
+- Responsive animations
+    - Clickable tables, links or sections of the website which unfold through animation via react.
+- Events calendar integration
+    - The ability to subscribe to a dedicated google calendar or online database of the trio's upcoming concerts which would input event details directly into your chosen online calendar with just a few taps.
 
 ## Tools & Technologies Used
 
