@@ -5,6 +5,7 @@ Return back to the [README.md](README.md) file.
 Throughout the development of this site, rigorous testing has been a bedrock for ensuring a seamless user experience. Throughout its development every facet of the site has been maticulously scrutinised, from functionality to responsiveness. This thorough examination not only ensures the robustness of the website across multiple devices (with a mobile-first approach being given first priority) but also instills confidence to our users that it functions seamlessly across browsers for all our potential users. With a dedicated approach to quality assurance, I am confident that the website is a testament to a thorough and effective testing regimen, ensuring users encounter a smooth and reliable online environment.
 
 ### Throughout the testing process all the following goals were assigned:
+
 Layout, each page's content's order of appearance, navigation elements and page structure in accordance with the site's primary goals (enabling the trio to be contacted, providing relevant information for music promoters and establishing an online presence); 
 Navigation (for clarity, visibility within the structure, intuitive design and a smooth user experience); 
 Visibility of all elements on the page, particularly paying attention to avoid overstimulation for the user; 
@@ -12,6 +13,7 @@ Suitable color choices and contrast for clear visual recognition and accessibili
 Ensuring responsivity of all elements is functional with clarity being the primary goal across multiple devices and screen sizes.
 
 #### Below is a list of the features this site holds:
+
 (More detailed feature descriptions listed in the features section of the [README.md](README.me)).
 
 Navbar (responsive and changing layout depending on screen size for optimum visibility and clear navigation across devices);
@@ -58,7 +60,6 @@ Hero image;
 Favicon png's (also used as the logo);
 
 
-
 ## Code Validation
 
 ### HTML
@@ -85,17 +86,7 @@ I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-val
 
 ## Browser Compatibility
 
-
-Use this space to discuss testing the live/deployed site on various browsers.
-
-Consider testing at least 3 different browsers, if available on your system.
-
-Recommended browsers to consider:
-- [Chrome](https://www.google.com/chrome)
-- [Firefox (Developer Edition)](https://www.mozilla.org/firefox/developer)
-- [Opera](https://www.opera.com/download)
-
-I've tested my deployed project on multiple browsers to check for compatibility issues.
+I have tested my deployed project on multiple browsers to check for compatibility issues.
 
 | Browser | Home | Contact | Confirmation | Services | Gallery | Notes |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -136,7 +127,6 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 | Gallery | ![screenshot](documentation/lighthouse-gallery-mobile.png) | ![screenshot](documentation/lighthouse-gallery-desktop.png) | Slow response time due to large images |
 
 ## User Story Testing
-⚠️
 
 <!-- Testing user stories is actually quite simple, once you've already got the stories defined on your README.
 
@@ -170,31 +160,5 @@ There are no remaining bugs that I am aware of.
 
     The site is still fully functional with the included java-script code. The code was directly sourced from [FancyApps - Carousel](https://fancyapps.com/carousel/getting-started/). I solved the issue by including the attributed jshint esversion: 11 for clarity. 
 
-
-Some examples:
-
-- On devices smaller than 375px, the page starts to have `overflow-x` scrolling.
-
-    ![screenshot](documentation/unfixed-bug01.png)
-
-    - Attempted fix: I tried to add additional media queries to handle this, but things started becoming too small to read.
-
-- For PP3, when using a helper `clear()` function, any text above the height of the terminal does not clear, and remains when you scroll up.
-
-    ![screenshot](documentation/unfixed-bug02.png)
-
-    - Attempted fix: I tried to adjust the terminal size, but it only resizes the actual terminal, not the allowable area for text.
-
-- When validating HTML with a semantic `section` element, the validator warns about lacking a header `h2-h6`. This is acceptable.
-
-    ![screenshot](documentation/unfixed-bug03.png)
-
-    - Attempted fix: this is a known warning and acceptable, and my section doesn't require a header since it's dynamically added via JS.
-
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
-
-If you legitimately cannot find any unfixed bugs or warnings, then use the following sentence:
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
 
 There are no remaining bugs that I am aware of.
