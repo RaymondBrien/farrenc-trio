@@ -225,9 +225,9 @@ fieldset input, fieldset select, textarea {
 
 #contact-image img {
     object-fit: cover;
-    min-height: 20rem;
+    min-height: 38rem;
     width: 100%;
-    object-position: top;
+    object-position: center;
 }
 
 #contact-submit {
