@@ -2,15 +2,6 @@
 
 # [FARRENC TRIO.GIT](https://raymondbrien.github.io/farrenc-trio)
 
-
-TAKE OUT ALL COMMENTED OUT SECTIONS!!!!!!!!!!!!!!!!!!!!!!!
-<!-- 
-In this section, you will include a few paragraphs providing an overview of your project.
-Essentially, this part is your "sales pitch". -->
-<!-- 
-At this stage, you should have a name for your project so use it!
-Don't introduce the project as a "portfolio project" for the diploma. -->
-
 The Farrenc Trio is a classical chamber music ensemble based in London who were in need of a custom website, with two primary goals: establishing an online presence 
 and creating numerous opportunities for music professionals to get in touch with the trio directly for bookings and enquiries.
 Farrenc Trio as a site aims to promote the trio's work, versatility and online presence in a simple and clean way, laying out information in clearly definited pages with 
@@ -318,13 +309,13 @@ This project can be cloned or forked in order to make a local copy on your own s
 
 You can clone the repository by following these steps:
 
-1. Go to the [GitHub repository](https://github.com/RaymondBrien/farrenc-trio.git) 
+1. Go to the [GitHub repository](https://github.com/RaymondBrien/farrenc-trio) 
 2. Locate the Code button above the list of files and click it 
 3. Select if you prefer to clone using HTTPS, SSH, or GitHub CLI and click the copy button to copy the URL to your clipboard
 4. Open Git Bash or Terminal
 5. Change the current working directory to the one where you want the cloned directory
 6. In your IDE Terminal, type the following command to clone my repository:
-	- `git clone https://github.com/RaymondBrien/farrenc-trio.git.git`
+	- `git clone https://github.com/RaymondBrien/farrenc-trio.git`
 7. Press Enter to create your local clone.
 
 Alternatively, if using Gitpod, you can click below to create your own workspace using this repository.
