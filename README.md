@@ -155,6 +155,7 @@ Hint: the more, the merrier! -->
     - Clickable tables, links or sections of the website which unfold through animation via react.
 - Events calendar integration
     - The ability to subscribe to a dedicated google calendar or online database of the trio's upcoming concerts which would input event details directly into your chosen online calendar with just a few taps.
+- Responsive table in the services section which contains further information about more repertoire as the ensemble's programmes expand.
 
 ## Tools & Technologies Used
 
