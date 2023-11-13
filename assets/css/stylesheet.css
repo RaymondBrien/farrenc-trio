@@ -40,7 +40,7 @@ li {
     padding-top: 20px;
 }   
 
-#received-message, #contact-heading, #services-heading {
+#received-message > h2, #contact-heading, #services-heading {
     margin-top: 75px;
 }
 
