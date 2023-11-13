@@ -1,6 +1,6 @@
 # farrenc-trio
 
-# [FARRENC TRIO.GIT](https://raymondbrien.github.io/farrenc-trio)
+# [FARRENC TRIO](https://raymondbrien.github.io/farrenc-trio)
 
 The Farrenc Trio is a classical chamber music ensemble based in London who were in need of a custom website, with two primary goals: establishing an online presence 
 and creating numerous opportunities for music professionals to get in touch with the trio directly for bookings and enquiries.
@@ -108,25 +108,6 @@ Example:
 - [Font Awesome](https://fontawesome.com) icons were used throughout the site, such as the social media icons in the footer.
 
 ## Wireframes
-
-<!-- In this section, display your wireframe screenshots using a Markdown `table`.
-Instructions on how to do Markdown `tables` start on line #213 on this site: https://pandao.github.io/editor.md/en.html
-
-Alternatively, dropdowns are a way to condense several wireframes into a collapsible menu to save space.
-Dropdowns in Markdown are considered some of the only acceptable HTML components that are allowed for assessment purposes.
-
-**IMPORTANT**! **IMPORTANT**! **IMPORTANT**!
-The example below uses the `details` and `summary` code elements.
-However, for these scripts to work, I've had to add spaces within the `< >` elements.
-
-You MUST remove these spaces for it to work properly on your own README/TESTING files.
-Remove the spaces within the `< >` brackets for the `details` and `summary` code elements,
-for the Mobile, Tablet, and Desktop wireframes.
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
-To follow best practice, wireframes were developed for mobile, tablet, and desktop sizes.-->
-
 
 ### Mobile Wireframes
 
@@ -295,7 +276,7 @@ For all testing, please refer to the [TESTING.md](TESTING.md) file.
 
 The site was deployed to GitHub Pages. The steps to deploy are as follows:
 
-- In the [GitHub repository](https://github.com/RaymondBrien/farrenc-trio.git), navigate to the Settings tab 
+- In the [GitHub repository](https://github.com/RaymondBrien/farrenc-trio), navigate to the Settings tab 
 - From the source section drop-down menu, select the **Main** Branch, then click "Save".
 - The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 

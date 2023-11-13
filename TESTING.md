@@ -12,21 +12,50 @@ Suitable color choices and contrast for clear visual recognition and accessibili
 Ensuring responsivity of all elements is functional with clarity being the primary goal across multiple devices and screen sizes.
 
 #### Below is a list of the features this site holds:
-Favicon png's (also used within the )
-Navbar (responsive and changing layout depending on screen size for optimum visibility and clear navigation across devices);
-Numerous unobtrusive fontawesome icons with clear relationships between the icon and its attributed meaning for intuitive user experience and ease of navigation;
-Multiple occaisions on each page to direct the user directly to the contact.html page;
-A fixed header element for ease of navigation, no matter where you are on any page, so that the navbar is always available;
-News sections and contact tips separated out with the use of borders (for tips) and fieldsets (for news) to differentiate content from the page's main focus and provide further clarity within each page;
-Footers which provide further opportunities to direct the user to the contact page, along with direct links which open in a new tab to the trio's social media platforms;
-A functional contact page which is only submittable with the correctly formatted required fields, taking the user to a confirmation page which, after 10 seconds, after acknowledging the user's submitted form for good user experience, automatically redirects the user back to the home page after 10 seconds, informing the user as it does so to establish user trust and ease of mind;
-Responsive photos on each page of the site which do not obstruct each page's content and provide a sense of ease to the user, with a consistent appearance across the site.
-Structured content on each page adhering in general to the rule of thirds where appropriate for suitable visual clarity and user experience;
-An interactive gallery slideshow to avoid page clutter (instead of simply listing all the photos at once) which allows the user to initiate engagement themselves with the site for a positive user expeirence;
-A responsive table which allows for the target audience of festival promoters and music-specific users to find repertoire in clearly definied categories, each with an attributed icon for clear content navigation;
-Colors, font family, font sizes, and icons were consistent across all pages for intuitive design.
+(More detailed feature descriptions listed in the features section of the [README.md](README.me)).
 
-With all the aforementioned elements of testing and functionality in mind during the testing phase, we are confident that the project provides a straightforward way for users to achieve their primary goals in accordance with the target audience's reviewed goals and the site's primary goals.
+Navbar (responsive and changing layout depending on screen size for optimum visibility and clear navigation across devices);
+
+Numerous unobtrusive fontawesome icons with clear relationships between the icon and its attributed meaning for intuitive user experience and ease of navigation;
+
+Multiple call-to-action internal links on each page to direct the user directly to the contact.html page;
+
+A fixed header element for ease of navigation, no matter where you are on any page, so that the navbar is always available;
+
+News sections and contact tips separated out with the use of borders (for tips) and fieldsets (for news) to differentiate content from the page's main focus and provide further clarity within each page;
+
+Footers which provide further opportunities to direct the user to the contact page, along with direct links which open in a new tab to the trio's social media platforms;
+
+A functional contact page which is only submittable with the correctly formatted required fields, taking the user to a confirmation page which, after 10 seconds, after acknowledging the user's submitted form for good user experience, automatically redirects the user back to the home page after 10 seconds, informing the user as it does so to establish user trust and ease of mind;
+
+Responsive photos on each page of the site which do not obstruct each page's content and provide a sense of ease to the user, with a consistent appearance across the site;
+
+Structured content on each page adhering in general to the rule of thirds where appropriate for suitable visual clarity and user experience;
+
+An interactive gallery slideshow to avoid page clutter (instead of simply listing all the photos at once) which allows the user to initiate engagement themselves with the site for a positive user expeirence;
+
+A responsive table which allows for the target audience of festival promoters and music-specific users to find repertoire in clearly definied categories, each with an attributed icon for clear content navigation;
+
+Colors, font family, font sizes, and icons were consistent across all pages for intuitive design;
+
+With all the aforementioned elements of testing and functionality in mind during the testing phase, we are confident that the project provides a straightforward way for users to achieve their primary goals in accordance with the target audience's reviewed goals and the site's primary goals;
+
+External links to social media pages of the trio which open in a new tab;
+Testamonial;
+
+News section;
+
+Contact page;
+
+Repertoire tables categorised as either classical or contemporary repertoire, with durations and instrumentation;
+
+Contact form with required fields and field format requirements;
+
+Confirmation of receipt of contact form submission;
+
+Hero image;
+
+Favicon png's (also used as the logo);
 
 
 
@@ -107,16 +136,14 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 | Gallery | ![screenshot](documentation/lighthouse-gallery-mobile.png) | ![screenshot](documentation/lighthouse-gallery-desktop.png) | Slow response time due to large images |
 
 ## User Story Testing
+⚠️
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
-
-Testing user stories is actually quite simple, once you've already got the stories defined on your README.
+<!-- Testing user stories is actually quite simple, once you've already got the stories defined on your README.
 
 Most of your project's **features** should already align with the **user stories**,
 so this should as simple as creating a table with the user story, matching with the re-used screenshot
 from the respective feature.
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
+ -->
 
 | User Story | Screenshot |
 | --- | --- |
@@ -133,64 +160,18 @@ from the respective feature.
 
 ## Bugs
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
-
-This section is primarily used for JavaScript and Python applications,
-but feel free to use this section to document any HTML/CSS bugs you might run into.
-
-It's very important to document any bugs you've discovered while developing the project.
-Make sure to include any necessary steps you've implemented to fix the bug(s) as well.
-
-**PRO TIP**: screenshots of bugs are extremely helpful, and go a long way!
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
-- JS Uncaught ReferenceError: `foobar` is undefined/not defined
-
-    ![screenshot](documentation/bug01.png)
-
-    - To fix this, I _____________________.
-
-- JS `'let'` or `'const'` or `'template literal syntax'` or `'arrow function syntax (=>)'` is available in ES6 (use `'esversion: 11'`) or Mozilla JS extensions (use moz).
-
-    ![screenshot](documentation/bug02.png)
-
-    - To fix this, I _____________________.
-
-- Python `'ModuleNotFoundError'` when trying to import module from imported package
-
-    ![screenshot](documentation/bug03.png)
-
-    - To fix this, I _____________________.
-
-- Django `TemplateDoesNotExist` at /appname/path appname/template_name.html
-
-    ![screenshot](documentation/bug04.png)
-
-    - To fix this, I _____________________.
-
-- Python `E501 line too long` (93 > 79 characters)
-
-    ![screenshot](documentation/bug04.png)
-
-    - To fix this, I _____________________.
+There are no remaining bugs that I am aware of.
 
 ## Unfixed Bugs
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
+- JS Uncaught ReferenceError: `carousel` is undefined directly in the FancyApp's code.
 
-You will need to mention unfixed bugs and why they were not fixed.
-This section should include shortcomings of the frameworks or technologies used.
-Although time can be a big variable to consider, paucity of time and difficulty understanding
-implementation is not a valid reason to leave bugs unfixed.
+    ![screenshot](documentation/js-test.png)
 
-If you've identified any unfixed bugs, no matter how small, be sure to list them here.
-It's better to be honest and list them, because if it's not documented and an assessor finds the issue,
-they need to know whether or not you're aware of them as well, and why you've not corrected/fixed them.
+    The site is still fully functional with the included java-script code. The code was directly sourced from [FancyApps - Carousel](https://fancyapps.com/carousel/getting-started/). I solved the issue by including the attributed jshint esversion: 11 for clarity. 
+
 
 Some examples:
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
 
 - On devices smaller than 375px, the page starts to have `overflow-x` scrolling.
 
