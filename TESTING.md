@@ -16,46 +16,24 @@ Ensuring responsivity of all elements is functional with clarity being the prima
 
 (For more details of the features, please refer to the features section of the [README.md](README.me)).
 
-<!-- EDIT SO JUST BULLETPOINTS HERE, leave justification for readme -->
-
-A fixed navbar with responsive layout;
-
-Navbar (responsive and changing layout depending on screen size for optimum visibility and clear navigation across devices);
-
-Favicon png's (also used as the logo);
-
-Numerous unobtrusive fontawesome icons with clear relationships between the icon and its attributed meaning for intuitive user experience and ease of navigation;
-
-Hero image;
-
-Multiple call-to-action internal links on each page to direct the user directly to the contact.html page;
-
+Responsive Navbar;
+Favicon;
+Icons;
+Hero Image;
+Internal Links Navbar;
+Call to Action (get in touch);
 Biography;
-
-Get in touch calls to action directing users to the contact page;
-
-News sections and contact tips separated out with the use of borders (for tips) and fieldsets (for news) to differentiate content from the page's main focus and provide further clarity within each page;
-
-Footers which provide further opportunities to direct the user to the contact page, along with direct links which open in a new tab to the trio's social media platforms;
-
-Contact form with required fields and field format requirements;
-
-Confirmation of form submission page, with 10 second redirectory back to home page.
-
-Contact tips section;
-
-Responsive photos on each page of the site which do not obstruct each page's content and provide a sense of ease to the user, for continuity of appearance across the site;
-
-Structured content on each page adhering in general to the rule of thirds where appropriate for suitable visual clarity and user experience with headings and relevant icons for clera visual structure;
-
-An interactive gallery slideshow to avoid page clutter (instead of simply listing all the photos at once) which allows the user to initiate engagement themselves with the site for a positive user expeirence;
-
-A repertoire page which allows for the target audience of festival promoters and music-specific users to find repertoire in clearly definied categories, each with an attributed icon for clear content navigation;
-
-External links to social media pages of the trio which open in a new tab;
-
-
-
+News Section;
+Diamond Dividers;
+Footers;
+Contact Form;
+Confirmation Page;
+Contact Tips Section;
+Responsive Photos;
+Structured Content;
+Interactive Gallery;
+Repertoire Section;
+Social Media Links;
 
 ## Code Validation
 
@@ -125,25 +103,18 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 
 ## User Story Testing
 
-<!-- Testing user stories is actually quite simple, once you've already got the stories defined on your README.
-
-Most of your project's **features** should already align with the **user stories**,
-so this should as simple as creating a table with the user story, matching with the re-used screenshot
-from the respective feature.
- -->
-
 | User Story | Screenshot |
 | --- | --- |
-| As a new site user, I would like to ____________, so that I can ____________. | ![screenshot](documentation/feature01.png) |
-| As a new site user, I would like to ____________, so that I can ____________. | ![screenshot](documentation/feature02.png) |
-| As a new site user, I would like to ____________, so that I can ____________. | ![screenshot](documentation/feature03.png) |
-| As a returning site user, I would like to ____________, so that I can ____________. | ![screenshot](documentation/feature04.png) |
-| As a returning site user, I would like to ____________, so that I can ____________. | ![screenshot](documentation/feature05.png) |
-| As a returning site user, I would like to ____________, so that I can ____________. | ![screenshot](documentation/feature06.png) |
-| As a site administrator, I should be able to ____________, so that I can ____________. | ![screenshot](documentation/feature07.png) |
-| As a site administrator, I should be able to ____________, so that I can ____________. | ![screenshot](documentation/feature08.png) |
-| As a site administrator, I should be able to ____________, so that I can ____________. | ![screenshot](documentation/feature09.png) |
-| repeat for all remaining user stories | x |
+| As a new site user, I would like to navigate the site, so that I can find the information relevant to me. | ![screenshot](documentation/feature-1.png) |
+| As a new site user, I would like to find the contact page, so that I can send a message to the trio for bookings. | ![screenshot](documentation/feature-5.png) |
+| As a new site user, I would like to learn about the trio, so that I can decide if they are what we are looking for. | ![screenshot](documentation/feature-6.png) |
+| As a returning site user, I would like to check repertoire lists, so that I can find repertoire for my event. | ![screenshot](documentation/feature-14.png) |
+| As a returning site user, I would like to check for updates, so that I can find out concert dates. | ![screenshot](documentation/feature-7.png) |
+| As a returning site user, I would like to find their social media, so that I can watch their videos. | ![screenshot](documentation/feature-17.png) |
+| As a site administrator, I should be able to update the gallery page, so that I can continue to establish the trio's online presence. | ![screenshot](documentation/feature15.png) |
+| As a site administrator, I should be able to update repertoire lists as they develop, so that I can diversify the trio's offerings. | ![screenshot](documentation/feature16.png) |
+| As a site administrator, I should be able to divide content intuitively, so that I can provide a visually clear interface for our users. | ![screenshot](documentation/feature-8.png) |
+
 
 ## Bugs
 

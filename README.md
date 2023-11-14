@@ -149,21 +149,17 @@ etc.
 
     - A clearly labelled biography on the landing page for users to immediately learn more about the trio without having to navigate anywhere on the site. It is immediately recognisable with a dedicated icon, header and direclty provides required information for the primary target audience of festival promoters.
 
-
 ![screenshot](documentation/feature-6.png)
 
 - **News Section**
 
     - News section is separated on the page with a border to differentiate content from the page's main focus of the biography and contact link, along with an icon for easy visual recognition and to provide further clarity within the page without overstimulating the user; this leads the user to directly useful information for the target audience about upcoming events and information about the trio after the biography (order of priority from top to bottom but still within the main page).
 
-
-
 ![screenshot](documentation/feature-7.png)
 
 - **Diamond Divider**
 
     - Providing consistency throughout the pages, the diamond provides another unobtrusive divider between sections of content to ensure the pages are not overcrowded to avoid overstimulating the user and providing a clear navigation between sections for a positive UI and UX.
-
 
 ![screenshot](documentation/feature-8.png)
 
@@ -187,7 +183,7 @@ etc.
 
 ![screenshot](documentation/feature-11.png)
 
-- **Contact tips section**
+- **Contact Tips Section**
 
     - This ensures the user is making the best use of their time by providing clear help and outlining requirements of what the contact form is best used for, and how the target audience can ensure they contact the trio effectively. It is seperated as a new section for clear page layout, priotising the contact form at the top of the page, separated with a diamond and border for positive UX.
 
