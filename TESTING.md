@@ -65,9 +65,9 @@ I have tested my deployed project on multiple browsers to check for compatibilit
 
 | Browser | Home | Contact | Confirmation | Services | Gallery | Notes |
 | --- | --- | --- | --- | --- | --- | --- |
-| Chrome | ![screenshot](documentation/browser-chrome-home.png) | ![screenshot](documentation/browser-chrome-homecontact.png) | ![screenshot](documentation/browser-chrome-confirmation.png) | ![screenshot](documentation/browser-chrome-services.png) | ![screenshot](documentation/browser-chrome-gallery.png) | Works as expected |
-| Firefox | ![screenshot](documentation/browser-firefox-home.png) | ![screenshot](documentation/browser-firefox-contact.png) | ![screenshot](documentation/browser-firefox-confirmation.png) | ![screenshot](documentation/browser-firefox-services.png) | Works as expected | | ![screenshot](documentation/browser-firefox-gallery.png) | Works as expected |
-| Opera | ![screenshot](documentation/browser-opera-home.png) | ![screenshot](documentation/browser-opera-contact.png) | ![screenshot](documentation/browser-opera-confirmation.png) | ![screenshot](documentation/browser-opera-services.png) | | ![screenshot](documentation/browser-opera-gallery.png) | Minor differences |
+| Chrome | ![screenshot](documentation/browser-chrome-home.png) | ![screenshot](documentation/browser-chrome-contact.png) | ![screenshot](documentation/browser-chrome-confirmation.png) | ![screenshot](documentation/browser-chrome-services.png) | ![screenshot](documentation/browser-chrome-gallery.png) | Works as expected |
+| Firefox | ![screenshot](documentation/browser-firefox-home.png) | ![screenshot](documentation/browser-firefox-contact.png) | ![screenshot](documentation/browser-firefox-confirmation.png) | ![screenshot](documentation/browser-firefox-services.png) | ![screenshot](documentation/browser-firefox-gallery.png) | Works as expected |
+| Opera | ![screenshot](documentation/browser-opera-home.png) | ![screenshot](documentation/browser-opera-contact.png) | ![screenshot](documentation/browser-opera-confirmation.png) | ![screenshot](documentation/browser-opera-services.png) | ![screenshot](documentation/browser-opera-gallery.png) | Minor differences |
 
 
 ## Responsiveness
@@ -80,11 +80,11 @@ The minimum requirement is for the following 3 tests:
 I've tested my deployed project on multiple devices to check for responsiveness issues.
 
 | Device | Home | Contact | Confirmation | Services | Gallery | Notes |
-| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- |
 | Mobile (DevTools) | ![screenshot](documentation/responsive-mobile-home.png) | ![screenshot](documentation/responsive-mobile-contact.png) | ![screenshot](documentation/responsive-mobile-confirmation.png) | ![screenshot](documentation/responsive-mobile-services.png) | ![screenshot](documentation/responsive-mobile-gallery.png) | Works as expected |
 | Tablet (DevTools) | ![screenshot](documentation/responsive-tablet-home.png) | ![screenshot](documentation/responsive-tablet-contact.png) | ![screenshot](documentation/responsive-tablet-confirmation.png) | ![screenshot](documentation/responsive-tablet-services.png) | ![screenshot](documentation/responsive-tablet-gallery.png) | Works as expected |
 | Laptop | ![screenshot](documentation/responsive-laptop-home.png) | ![screenshot](documentation/responsive-laptop-contact.png) | ![screenshot](documentation/responsive-laptop-confirmation.png) | ![screenshot](documentation/responsive-laptop-services.png) | ![screenshot](documentation/responsive-laptop-gallery.png) | Works as expected |
-| XL Monitor | ![screenshot](documentation/responsive-desktop-home.png) | ![screenshot](documentation/responsive-desktop-contact.png) | ![screenshot](documentation/responsive-desktop-confirmation.png) | ![screenshot](documentation/responsive-desktop-services.png |![screenshot](documentation/responsive-desktop-gallery.png) | Scaling starts to have minor issues |
+| XL Monitor | ![screenshot](documentation/responsive-desktop-home.png) | ![screenshot](documentation/responsive-desktop-contact.png) | ![screenshot](documentation/responsive-desktop-confirmation.png) | ![screenshot](documentation/responsive-desktop-services.png) |![screenshot](documentation/responsive-desktop-gallery.png) | Scaling starts to have minor issues |
 | iPhone 10 | ![screenshot](documentation/responsive-iphone-home.png) | ![screenshot](documentation/responsive-iphone-contact.png) | ![screenshot](documentation/responsive-iphone-confirmation.png) | ![screenshot](documentation/responsive-iphone-services.png) | ![screenshot](documentation/responsive-iphone-gallery.png) | Works as expected |
 | iPad Pro 12.9 inch | ![screenshot](documentation/responsive-ipad-home.png) | ![screenshot](documentation/responsive-ipad-contact.png) | ![screenshot](documentation/responsive-ipad-confirmation.png) | ![screenshot](documentation/responsive-ipad-services.png) | ![screenshot](documentation/responsive-ipad-gallery.png) | Works as expected |
 

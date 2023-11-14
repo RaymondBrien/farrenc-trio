@@ -71,7 +71,7 @@ Gallery
 <summary>Click here to see the Tablet Wireframes</summary>
 
 Home
-  - ![screenshot](documentation/wireframes/mobile-home.jpg)
+  - ![screenshot](documentation/wireframes/tablet-home.jpg)
 
 Contact
   - ![screenshot](documentation/wireframes/tablet-contact.jpg)
@@ -101,8 +101,7 @@ Services
 Gallery
   - ![screenshot](documentation/wireframes/desktop-gallery.jpg)
 
-etc.
-  - repeat for any remaining desktop wireframes
+
 
 </details>
 
