@@ -122,29 +122,123 @@ IMPORTANT: Remember to always include a screenshot of each individual feature! -
 
 ### Existing Features
 
-<!-- - **Title for feature #1**
+- **Responsive Navbar**
 
-    - Details, value to the site, benefit for the user.
+    - A fixed, responsive navbar for ease of navigation; the navbar is always available and responsive across devices for ease of navigation at all times regardless of the device or screensize used;
 
-![screenshot](documentation/feature01.png)
 
-- **Title for feature #2**
+![screenshot](documentation/feature-1.png)
 
-    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+- **Favicon**
 
-![screenshot](documentation/feature02.png)
+    - The favicon is an upwards triangle which also serves as trio's logo; this helps with brand recognition in line with establishing the trio's online presence and creates a recognisable tab for the user in the browser for ease of tab navigation.
 
-- **Title for feature #3**
+![screenshot](documentation/feature-2.png)
 
-    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+- **Icons**
 
-![screenshot](documentation/feature03.png)
+    - Numerous unobtrusive fontawesome icons are used consistently throughout the site which display clear relationships between the 
+    icon and its attributed section or link for intuitive user experience and ease of navigation.
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
 
-Repeat as necessary for as many features as your site contains.
+![screenshot](documentation/feature-3.png)
 
-Hint: the more, the merrier! -->
+- **Hero Image**
+
+    - A hero image at the start of the home page not only establishes an identity on the landing page (important for brand recognition and color scheme establishment), but also creates a format which then establishes the site's continuity reassuring the user through images used on each page.
+
+
+![screenshot](documentation/feature-4.png)
+
+- **Multiple Calls to Action (Contact)**
+
+    - Multiple call-to-action internal links on each page to direct the user directly to the contact.html page; these are near the top of the page, in the footer and in the dedicated highlighted green bars which also seperate sections of the page nicely. This makes it incredibly easy to direct the user directly to the contact page, directly in line with the site's intentions of directing more traffic to get in contact with the trio via their website.
+
+
+![screenshot](documentation/feature-5.png)
+
+- **Biography**
+
+    - A clearly labelled biography on the landing page for users to immediately learn more about the trio without having to navigate anywhere on the site. It is immediately recognisable with a dedicated icon, header and direclty provides required information for the primary target audience of festival promoters.
+
+
+![screenshot](documentation/feature-6.png)
+
+- **News Section**
+
+    - News section is separated on the page with a border to differentiate content from the page's main focus of the biography and contact link, along with an icon for easy visual recognition and to provide further clarity within the page without overstimulating the user; this leads the user to directly useful information for the target audience about upcoming events and information about the trio after the biography (order of priority from top to bottom but still within the main page).
+
+
+
+![screenshot](documentation/feature-7.png)
+
+- **Diamond Divider**
+
+    - Providing consistency throughout the pages, the diamond provides another unobtrusive divider between sections of content to ensure the pages are not overcrowded to avoid overstimulating the user and providing a clear navigation between sections for a positive UI and UX.
+
+
+![screenshot](documentation/feature-8.png)
+
+- **Footers**
+
+    - Footers  provide further opportunities with an internal link to direct the user to the contact page, along with links which open in a new tab to the trio's social media platforms, important for the target audience which will also want to know how to find out more about the trio and their social platforms.
+
+![screenshot](documentation/feature-9.png)
+
+- **Contact Form**
+
+    - Contact form with required fields and field format requirements; prompts the user to input the most important information relevant to their request, directly important for the site's primary goals. The target audience will need to get in contact with the trio and this provides a clearly mapped route to contact without overcrowding the page. The required fields also ensure that the user has not mistyped information by ensuring the contact information they provide is in the correct format, and therefore cannot submit unless all the required fields which make it easy for the trio to contact them are filled in.
+
+
+![screenshot](documentation/feature-10.png)
+
+- **Confirmation Page**
+
+    - This ensures the user is reassured their contact form submission has been acknowledged for a positive user experience. The contact form will be important for the target audience and this provides a clear dedicated area for confirmation of their submission, before redirecting them automatically after 10 seconds (enough time to read the page upon thorough testing) to the home page, keeping them using the site.
+
+
+![screenshot](documentation/feature-11.png)
+
+- **Contact tips section**
+
+    - This ensures the user is making the best use of their time by providing clear help and outlining requirements of what the contact form is best used for, and how the target audience can ensure they contact the trio effectively. It is seperated as a new section for clear page layout, priotising the contact form at the top of the page, separated with a diamond and border for positive UX.
+
+![screenshot](documentation/feature-12.png)
+
+- **Responsive Photos**
+
+    - Responsive photos on each page of the site provide continuity and do not obstruct each page's content, regardless of the device and screen size the user is accessing the site with. They provide a sense of ease to the user whilst also establishing the trio's online presence and letting the user feel more directly in touch with the trio.
+
+
+![screenshot](documentation/feature-13.png)
+
+- **Structured Content**
+
+    - Structured content on each page adhering in general to the rule of thirds where appropriate for suitable visual clarity and user experience with headings and relevant icons for clear visual structure and positive navigation experience for the user, providing the most relevant and important information first at the top of the page.
+
+
+![screenshot](documentation/feature-14.png)
+
+- **Interactive Gallery**
+
+    - An interactive gallery slideshow to avoid page clutter (instead of simply listing all the photos at once) which allows the user to initiate engagement themselves with the site for a positive user expeirence, allowing the target audience to visually get to know more about the trio. Buttons are responsive and allow the user to initiate actions themselves providing positive interaction. The buttons have a hover query which allows the users to clearly navigate between photos no matter what device they are using.
+
+
+![screenshot](documentation/feature-15.png)
+
+- **Repertoire Section**
+
+    - A repertoire section which allows for the target audience of festival promoters and music-specific users to find required information regarding repertoire in clearly definied categories within the services page, each with an attributed icon for clear content navigation. This is directly important for the target audience and allows information to be accessed in a clear and unobstructive format in order of priority for both the trio and the target audience.
+
+
+![screenshot](documentation/feature-16.png)
+
+- **Social Media Links**
+
+    - External links to social media pages of the trio which open in a new tab; these will be directly useful for the target audience who will want to know more about the trio's activities. This also establishes a further online presence for the trio in line with the site's primary goals.
+
+
+![screenshot](documentation/feature-17.png)
 
 
 ### Future Features
