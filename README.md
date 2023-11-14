@@ -35,8 +35,8 @@ directly for bookings.
 
 I used [color.adobe.com](https://color.adobe.com/create/image) to generate and inspire my colour palette which were taken directly from the photos which were going to be featured numerous times throughout the site for continuity.
 
-![screenshot](documentation/color-pallette-one.jpg) 
-![screenshot](documentation/color-pallette-two.jpeg.jpg) 
+![screenshot](documentation/color-pallette-one.jpeg) 
+![screenshot](documentation/color-pallette-two.jpeg) 
 
 ### Typography
 
@@ -296,7 +296,7 @@ You can fork this repository by using the following steps:
 
 ### Local VS Deployment
 
-Whilst there are no large differences between the deployed and local versions of my site, it is worth noting that the appearance of font weight differs, depending on the browser you use.
+Whilst there are no large differences between the deployed and local versions of my site, it is worth noting that the appearance of font weight and border appearance differs, depending on the browser you use.
 
 ## Credits
 
