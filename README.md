@@ -107,18 +107,6 @@ etc.
 </details>
 
 ## Features
-<!-- 
-In this section, you should go over the different parts of your project,
-and describe each in a sentence or so.
-
- explain what value each of the features provides for the user,
-focusing on who this website is for, what it is that they want to achieve,
-and how your project is the best way to help them achieve these things.
-
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-IMPORTANT: Remember to always include a screenshot of each individual feature! -->
-
 
 ### Existing Features
 
