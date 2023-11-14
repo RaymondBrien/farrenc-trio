@@ -111,7 +111,7 @@ etc.
 In this section, you should go over the different parts of your project,
 and describe each in a sentence or so.
 
-You will need to explain what value each of the features provides for the user,
+ explain what value each of the features provides for the user,
 focusing on who this website is for, what it is that they want to achieve,
 and how your project is the best way to help them achieve these things.
 
@@ -124,7 +124,7 @@ IMPORTANT: Remember to always include a screenshot of each individual feature! -
 
 <!-- - **Title for feature #1**
 
-    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+    - Details, value to the site, benefit for the user.
 
 ![screenshot](documentation/feature01.png)
 

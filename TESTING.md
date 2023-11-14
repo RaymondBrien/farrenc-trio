@@ -14,50 +14,47 @@ Ensuring responsivity of all elements is functional with clarity being the prima
 
 #### Below is a list of the features this site holds:
 
-(More detailed feature descriptions listed in the features section of the [README.md](README.me)).
+(For more details of the features, please refer to the features section of the [README.md](README.me)).
+
+<!-- EDIT SO JUST BULLETPOINTS HERE, leave justification for readme -->
+
+A fixed navbar with responsive layout;
 
 Navbar (responsive and changing layout depending on screen size for optimum visibility and clear navigation across devices);
 
+Favicon png's (also used as the logo);
+
 Numerous unobtrusive fontawesome icons with clear relationships between the icon and its attributed meaning for intuitive user experience and ease of navigation;
+
+Hero image;
 
 Multiple call-to-action internal links on each page to direct the user directly to the contact.html page;
 
-A fixed header element for ease of navigation, no matter where you are on any page, so that the navbar is always available;
+Biography;
+
+Get in touch calls to action directing users to the contact page;
 
 News sections and contact tips separated out with the use of borders (for tips) and fieldsets (for news) to differentiate content from the page's main focus and provide further clarity within each page;
 
 Footers which provide further opportunities to direct the user to the contact page, along with direct links which open in a new tab to the trio's social media platforms;
 
-A functional contact page which is only submittable with the correctly formatted required fields, taking the user to a confirmation page which, after 10 seconds, after acknowledging the user's submitted form for good user experience, automatically redirects the user back to the home page after 10 seconds, informing the user as it does so to establish user trust and ease of mind;
+Contact form with required fields and field format requirements;
 
-Responsive photos on each page of the site which do not obstruct each page's content and provide a sense of ease to the user, with a consistent appearance across the site;
+Confirmation of form submission page, with 10 second redirectory back to home page.
 
-Structured content on each page adhering in general to the rule of thirds where appropriate for suitable visual clarity and user experience;
+Contact tips section;
+
+Responsive photos on each page of the site which do not obstruct each page's content and provide a sense of ease to the user, for continuity of appearance across the site;
+
+Structured content on each page adhering in general to the rule of thirds where appropriate for suitable visual clarity and user experience with headings and relevant icons for clera visual structure;
 
 An interactive gallery slideshow to avoid page clutter (instead of simply listing all the photos at once) which allows the user to initiate engagement themselves with the site for a positive user expeirence;
 
-A responsive table which allows for the target audience of festival promoters and music-specific users to find repertoire in clearly definied categories, each with an attributed icon for clear content navigation;
-
-Colors, font family, font sizes, and icons were consistent across all pages for intuitive design;
-
-With all the aforementioned elements of testing and functionality in mind during the testing phase, we are confident that the project provides a straightforward way for users to achieve their primary goals in accordance with the target audience's reviewed goals and the site's primary goals;
+A repertoire page which allows for the target audience of festival promoters and music-specific users to find repertoire in clearly definied categories, each with an attributed icon for clear content navigation;
 
 External links to social media pages of the trio which open in a new tab;
-Testamonial;
 
-News section;
 
-Contact page;
-
-Repertoire tables categorised as either classical or contemporary repertoire, with durations and instrumentation;
-
-Contact form with required fields and field format requirements;
-
-Confirmation of receipt of contact form submission;
-
-Hero image;
-
-Favicon png's (also used as the logo);
 
 
 ## Code Validation
